@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd year PhD student at the University of Texas at Austin and I conduct research in the field of Applied Microeconomics. Here, you can find my [CV](https://github.com/francisco-pardo-pajuelo/francisco-pardo-pajuelo.github.io/blob/master/files/CV_Francisco_Pardo_Pajuelo.pdf).
+I am a 3rd year PhD student at the University of Texas at Austin and I conduct research in the field of Applied Microeconomics. You can reach me at *fpardo@utexas.edu*. Here you can find my [CV](https://github.com/francisco-pardo-pajuelo/francisco-pardo-pajuelo.github.io/blob/master/files/CV_Francisco_Pardo_Pajuelo.pdf).
 
 
 
