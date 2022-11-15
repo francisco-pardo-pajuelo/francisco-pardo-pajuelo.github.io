@@ -8,17 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd year PhD student at the University of Texas at Austin and I conduct research in the field of Applied Microeconomics. You can reach me at *fpardo@utexas.edu*. Here you can find my [CV](https://github.com/francisco-pardo-pajuelo/francisco-pardo-pajuelo.github.io/blob/master/files/CV_Francisco_Pardo_Pajuelo.pdf).
+I am a 3rd year PhD student at the University of Texas at Austin and I conduct research in the field of Applied Microeconomics. You can reach me at *fpardo@utexas.edu*. Here you can find my [CV](francisco-pardo-pajuelo.github.io/files/CV.pdf).
 
 
 
 Publications
 ------
 
-[What is a Good School, and Can Parents Tell? Evidence on the Multidimensionality of School Output](https://github.com/francisco-pardo-pajuelo/francisco-pardo-pajuelo.github.io/blob/master/files/beuermann_et_al_2022_What_is_a_good_school.pdf))  
+[What is a Good School, and Can Parents Tell? Evidence on the Multidimensionality of School Output](francisco-pardo-pajuelo.github.io/files/beuermann_et_al_2022_What_is_a_good_school.pdf))  
 *(with Diether Beuermann, C. Kirabo Jackson and Laia Navarro-Sola)*  
 Review of Economic Studies, June 2022  
-[online appendix](https://github.com/francisco-pardo-pajuelo/francisco-pardo-pajuelo.github.io/blob/master/files/beuermann_et_al_2022_What_is_a_good_school_APPENDIX.pdf)
+[online appendix](francisco-pardo-pajuelo.github.io/files/beuermann_et_al_2022_What_is_a_good_school_APPENDIX.pdf)
 
 Work in Progress
 ------
