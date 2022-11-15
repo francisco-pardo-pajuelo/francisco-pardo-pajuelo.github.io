@@ -15,11 +15,9 @@ I am a 3rd year PhD student at the University of Texas at Austin and I conduct r
 Publications
 ------
 
-[What is a Good School, and Can Parents Tell? Evidence on the Multidimensionality of School Output](https://github.com/francisco-pardo-pajuelo/francisco-pardo-pajuelo.github.io/blob/master/files/beuermann_et_al_2022_What_is_a_good_school.pdf))
-*(with Diether Beuermann, C. Kirabo Jackson and Laia Navarro-Sola)*
-
-Review of Economic Studies, June 2022
-
+[What is a Good School, and Can Parents Tell? Evidence on the Multidimensionality of School Output](https://github.com/francisco-pardo-pajuelo/francisco-pardo-pajuelo.github.io/blob/master/files/beuermann_et_al_2022_What_is_a_good_school.pdf))  
+*(with Diether Beuermann, C. Kirabo Jackson and Laia Navarro-Sola)*  
+Review of Economic Studies, June 2022  
 [online appendix](https://github.com/francisco-pardo-pajuelo/francisco-pardo-pajuelo.github.io/blob/master/files/beuermann_et_al_2022_What_is_a_good_school_APPENDIX.pdf)
 
 Work in Progress
@@ -28,13 +26,11 @@ Partisan observers in a presidential elections: Influence of non-neutral monitor
 
 Workshops
 ------
-Russell Sage Summer Institute in Behavioral Economics, 2022
-
+Russell Sage Summer Institute in Behavioral Economics, 2022  
 (organized by David Laibson and Matthew Rabin)
 
 
-UC Davis Summer School on the Economics of Migration, 2022
-
+UC Davis Summer School on the Economics of Migration, 2022  
 (organized by Giovanni Peri)
 
 
