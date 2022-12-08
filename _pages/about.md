@@ -27,7 +27,7 @@ Partisan observers in a presidential elections: Influence of non-neutral monitor
 Work in Progress
 ------
 Long-Run Experimental Impacts of the “One Laptop Per Child” Program in Peru   
-*(with Diether Beuermann, Santiago Cueto, Julian Cristia and Ofer Malamud)*    
+*(with Diether Beuermann, Julian Cristia, Santiago Cueto and Ofer Malamud)*    
 
 Spillovers of going to a better school on older and younger siblings.  
 *(with Diether Beuermann, Patricio Dominguez, C. Kirabo Jackson and Diego Vera-Cossio)*  
