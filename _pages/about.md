@@ -26,16 +26,16 @@ Partisan observers in a presidential elections: Influence of non-neutral monitor
 
 Work in Progress
 ------
-Long-Run Experimental Impacts of the “One Laptop Per Child” Program in Peru 
+Long-Run Experimental Impacts of the “One Laptop Per Child” Program in Peru   
 *(with Diether Beuermann, Santiago Cueto, Julian Cristia and Ofer Malamud)*    
 
-Spillovers of going to a better school on older and younger siblings.
+Spillovers of going to a better school on older and younger siblings.  
 *(with Diether Beuermann, Patricio Dominguez, C. Kirabo Jackson and Diego Vera-Cossio)*  
 
 Workshops
 ------
 Russell Sage Summer Institute in Behavioral Economics, 2022  
-(organized by David Laibson and Matthew Rabin)  
+(organized by David Laibson and Matthew Rabin)   
 
 UC Davis Summer School on the Economics of Migration, 2022  
 (organized by Giovanni Peri)
