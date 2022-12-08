@@ -29,7 +29,7 @@ Work in Progress
 Long-Run Experimental Impacts of the “One Laptop Per Child” Program in Peru   
 *(with Diether Beuermann, Julian Cristia, Santiago Cueto and Ofer Malamud)*    
 
-Spillovers of going to a better school on older and younger siblings.  
+Spillovers of going to a better school on older and younger siblings  
 *(with Diether Beuermann, Patricio Dominguez, C. Kirabo Jackson and Diego Vera-Cossio)*  
 
 The Impact of Noise Pollution on Education Outcomes  
