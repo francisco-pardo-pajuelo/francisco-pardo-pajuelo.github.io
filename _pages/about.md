@@ -37,6 +37,9 @@ The Impact of Noise Pollution on Education Outcomes
 
 Workshops
 ------
+Price Theory Summer Camp, 2023 (accepted)
+(organized by Kevin Murphy)  
+
 Russell Sage Summer Institute in Behavioral Economics, 2022  
 (organized by David Laibson and Matthew Rabin)   
 
