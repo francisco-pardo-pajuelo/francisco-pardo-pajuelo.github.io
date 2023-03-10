@@ -22,7 +22,7 @@ Review of Economic Studies, June 2022
 
 Working papers
 ------
-Partisan observers in a presidential election: Influence of non-neutral monitoring on a close election with no incumbents.
+Partisan Observers in a Presidential Election.
 
 Work in Progress
 ------
