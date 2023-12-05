@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd year PhD student at the University of Texas at Austin and I conduct research in the field of Applied Microeconomics. You can reach me at *fpardo@utexas.edu*. Here you can find my [CV](http://francisco-pardo-pajuelo.github.io/files/CV_Francisco_Pardo_Pajuelo.pdf).
-
+I am a 4th year PhD student at the University of Texas at Austin and I conduct research in the field of Applied Microeconomics. You can reach me at *fpardo@utexas.edu*. Here you can find my [CV](http://francisco-pardo-pajuelo.github.io/files/CV_Francisco_Pardo_Pajuelo.pdf).
 
 
 Publications
@@ -22,22 +21,24 @@ Review of Economic Studies, June 2022
 
 Working papers
 ------
-Partisan Observers in a Presidential Election.
+The Effect of Partisan Observers in a Presidential Runoff: Evidence from the 2021 Elections in Peru.
 
-Work in Progress
-------
 Long-Run Experimental Impacts of the “One Laptop Per Child” Program in Peru   
 *(with Diether Beuermann, Julian Cristia, Santiago Cueto and Ofer Malamud)*    
 
+Work in Progress
+------
 Spillovers of going to a better school on older and younger siblings  
 *(with Diether Beuermann, Patricio Dominguez, C. Kirabo Jackson and Diego Vera-Cossio)*  
 
 The Impact of Noise Pollution on Education Outcomes  
 *(with Carlos Esparza)*  
 
+Household choices under individual changes in health insurance
+
 Workshops
 ------
-Price Theory Summer Camp, 2023 (accepted)
+Price Theory Summer Camp, 2023
 (organized by Kevin Murphy)  
 
 Russell Sage Summer Institute in Behavioral Economics, 2022  
@@ -45,6 +46,10 @@ Russell Sage Summer Institute in Behavioral Economics, 2022
 
 UC Davis Summer School on the Economics of Migration, 2022  
 (organized by Giovanni Peri)
+
+1st Texas Applied Microeconomics Student (TEAMS) Workshop, 2022
+(organizer)
+
 
 
 
