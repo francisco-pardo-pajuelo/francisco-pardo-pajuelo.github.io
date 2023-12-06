@@ -14,27 +14,27 @@ I am a 4th year PhD student in Economics at the University of Texas at Austin an
 Publications
 ------
 
-[What is a Good School, and Can Parents Tell? Evidence on the Multidimensionality of School Output](http://francisco-pardo-pajuelo.github.io/files/beuermann_et_al_2022_What_is_a_good_school.pdf))  
+[**What is a Good School, and Can Parents Tell? Evidence on the Multidimensionality of School Output**](http://francisco-pardo-pajuelo.github.io/files/beuermann_et_al_2022_What_is_a_good_school.pdf)  
 *(with Diether Beuermann, C. Kirabo Jackson and Laia Navarro-Sola)*  
 Review of Economic Studies, June 2022  
 [online appendix](http://francisco-pardo-pajuelo.github.io/files/beuermann_et_al_2022_What_is_a_good_school_APPENDIX.pdf)
 
 Working papers
 ------
-The Effect of Partisan Observers in a Presidential Runoff: Evidence from the 2021 Elections in Peru.
+**The Effect of Partisan Observers in a Presidential Runoff: Evidence from the 2021 Elections in Peru.**
 
-Long-Run Experimental Impacts of the “One Laptop Per Child” Program in Peru   
+**Long-Run Experimental Impacts of the “One Laptop Per Child” Program in Peru**   
 *(with Diether Beuermann, Julian Cristia, Santiago Cueto and Ofer Malamud)*    
 
 Work in Progress
 ------
-Spillovers of going to a better school on older and younger siblings  
+**Spillovers of going to a better school on older and younger siblings**  
 *(with Diether Beuermann, Patricio Dominguez, C. Kirabo Jackson and Diego Vera-Cossio)*  
 
-The Impact of Noise Pollution on Education Outcomes  
+**The Impact of Noise Pollution on Education Outcomes**  
 *(with Carlos Esparza)*  
 
-Household choices under individual changes in health insurance
+**Household choices under individual changes in health insurance**
 
 Workshops
 ------
