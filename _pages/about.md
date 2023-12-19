@@ -21,7 +21,7 @@ Review of Economic Studies, June 2022
 
 Work in Progress
 ------
-**Catastrophic Decisions: Household Reactions When Individual Members Age into or out of Eligibility Criteria**
+**Catastrophic Decisions: Household Reactions When Individual Members Age into or out of Health Insurance Eligibility Criteria**
 
 **The Effect of Partisan Poll Watchers in Presidential Runoff Elections: 3 Close Elections in Peru.**
 
