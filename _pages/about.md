@@ -19,22 +19,20 @@ Publications
 Review of Economic Studies, June 2022  
 [online appendix](http://francisco-pardo-pajuelo.github.io/files/beuermann_et_al_2022_What_is_a_good_school_APPENDIX.pdf)
 
-Working papers
+Work in Progress
 ------
-**The Effect of Partisan Observers in a Presidential Runoff: Evidence from the 2021 Elections in Peru.**
+**Catastrophic Decisions: Household Reactions When Individual Members Age into or out of Eligibility Criteria**
+
+**The Effect of Partisan Poll Watchers in Presidential Runoff Elections: 3 Close Elections in Peru.**
 
 **Long-Run Experimental Impacts of the “One Laptop Per Child” Program in Peru**   
 *(with Diether Beuermann, Julian Cristia, Santiago Cueto and Ofer Malamud)*    
 
-Work in Progress
-------
 **Spillovers of going to a better school on older and younger siblings**  
 *(with Diether Beuermann, Patricio Dominguez, C. Kirabo Jackson and Diego Vera-Cossio)*  
 
 **The Impact of Noise Pollution on Education Outcomes**  
 *(with Carlos Esparza)*  
-
-**Household choices under individual changes in health insurance**
 
 Workshops
 ------
