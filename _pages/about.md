@@ -21,6 +21,10 @@ Review of Economic Studies, June 2022
 
 Work in Progress
 ------
+Sibling Spillovers on Education Trajectories
+
+Complementarities of Joint Decisions Over Health Insurance within a Household: Evidence from Medicare Part D
+
 Catastrophic Decisions: Household Reactions When Individual Members Age into or out of Health Insurance Eligibility Criteria
 
 The Effect of Partisan Poll Watchers in Presidential Runoff Elections: 3 Close Elections in Peru
@@ -31,8 +35,8 @@ Long-Run Experimental Impacts of the “One Laptop Per Child” Program in Peru
 Spillovers of Going to a Better School on Older and Younger Siblings 
 *(with Diether Beuermann, Patricio Dominguez, C. Kirabo Jackson and Diego Vera-Cossio)*  
 
-The Impact of Noise Pollution on Education Outcomes
-*(with Carlos Esparza)*  
+<> The Impact of Noise Pollution on Education Outcomes
+<> *(with Carlos Esparza)*  
 
 Workshops
 ------
