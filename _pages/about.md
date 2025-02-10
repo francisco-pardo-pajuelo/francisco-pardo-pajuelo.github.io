@@ -35,9 +35,6 @@ Long-Run Experimental Impacts of the “One Laptop Per Child” Program in Peru
 Spillovers of Going to a Better School on Older and Younger Siblings 
 *(with Diether Beuermann, Patricio Dominguez, C. Kirabo Jackson and Diego Vera-Cossio)*  
 
-[//]: # The Impact of Noise Pollution on Education Outcomes
-[//]: # *(with Carlos Esparza)*  
-
 Workshops
 ------
 Price Theory Summer Camp, 2023
