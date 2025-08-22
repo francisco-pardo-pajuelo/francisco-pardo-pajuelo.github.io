@@ -21,6 +21,8 @@ Review of Economic Studies, June 2022
 
 Work in Progress
 ------
+When the Household Becomes the School: Sibling Effects on Parental Attention and Educational Outcomes During School Closures
+
 Sibling Spillovers on Education Trajectories
 
 Complementarities of Joint Decisions Over Health Insurance within a Household: Evidence from Medicare Part D
