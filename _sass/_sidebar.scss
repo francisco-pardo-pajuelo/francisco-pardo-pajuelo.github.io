@@ -24,7 +24,6 @@
     }
   }
 
-
   @include breakpoint($x-large) {
     padding-right: 0;
   }
@@ -83,14 +82,60 @@
   }
 
   img {
-    max-width: 175px;
-    //border-radius: 50%;
-    border-radius: 0;
-  
+    // Mobile: Full width image
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+    border-radius: 8px; // Rectangular with rounded corners
+    margin-bottom: 1em;
+
+    // Desktop: Smaller sidebar image
     @include breakpoint($large) {
+      max-width: 175px;
+      width: 175px;
       padding: 5px;
       border: 1px solid $border-color;
+      margin-bottom: 0;
     }
+  }
+}
+
+// Mobile-specific styling for full-width layout
+@media (max-width: 925px) {
+  .author__avatar {
+    display: block !important;
+    width: 100% !important;
+    text-align: center;
+    margin-bottom: 1.5em;
+    
+    img {
+      max-width: 300px; // Maximum width on mobile to prevent it from being too large
+      width: 100%;
+      height: auto;
+      display: block;
+      margin: 0 auto 1em auto;
+      border-radius: 0;
+    }
+  }
+
+  .author__content {
+    display: block !important;
+    width: 100% !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    text-align: center;
+  }
+
+  .author__urls-wrapper {
+    display: block !important;
+    text-align: center;
+    margin-top: 1em;
+  }
+
+  // Make the entire sidebar full width on mobile
+  .sidebar {
+    width: 100% !important;
+    margin-bottom: 2em;
   }
 }
 
