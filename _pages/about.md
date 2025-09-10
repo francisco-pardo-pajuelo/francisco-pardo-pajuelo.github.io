@@ -21,13 +21,19 @@ Review of Economic Studies, June 2022
 <details>
   <summary><b>Abstract</b></summary>
   <div>
-    <p>Abstract 123</p>
+    <p>To explore whether schools’ causal impacts on test scores measure their overall impact on students, we exploit plausibly exogenous school assignments and data from Trinidad and Tobago to estimate the causal impacts of individual schools on several outcomes. Schools’ impacts on high-stakes tests are weakly related to impacts on important outcomes such as arrests, dropout, teen motherhood, and formal labor-market participation. To examine if parents’ school preferences are related to these causal impacts, we link them to parents’ ranked lists of schools and employ discrete-choice models to infer preferences for schools. Parents choose schools that improve high-stakes tests even conditional on peer quality and average outcomes. Parents also choose schools that reduce criminality and teen motherhood, and increase labormarket participation. School choices among parents of low-achieving students are relatively more strongly related to schools’ impacts on non-test-score outcomes, while the opposite is true for parents of high-achieving students. These results suggest that evaluations based solely on test scores may be misleading about the benefits of school choice (particularity for lowachieving students), and education interventions more broadly. </p>
   </div>
 </details>
 
 Work in Progress
 ------
 When the Household Becomes the School: Sibling Effects on Parental Attention and Educational Outcomes During School Closures
+<details>
+  <summary><b>Abstract</b></summary>
+  <div>
+    <p> This paper examines how family structure affects educational outcomes when unexpected shocks dramatically increase parental time requirements for children's learning. Using administrative and survey data from Peru, I employ a difference-in-differences strategy that compares children with siblings to only children before, during, and after school closures caused by Covid-19. Students with siblings experienced significantly larger learning losses of up to 0.06 standard deviations in GPA and 0.17 standard deviations in standardized exams, with effects intensifying as the number of siblings increased. These differential impacts persist after schools reopened and appear across diverse subpopulations. Evidence points to parental time constraints as the primary mechanism. Effects are largest during primary education when parental investment matters the most and in families with higher socio-economic resources who tend to spend more time with their children. Households without PC or phone with internet show similar results which suggests siblings are not competing for access to resources. Regression discontinuity and IV approaches provide further evidence of the negative cost of increased childcare and family size. Consistent with these results, parents of students with siblings also reduced their expectations that their children will achieve higher education by up to 3.2 percentage points. Overall, these findings reveal fundamental insights about family resource allocation under stress. When external education support disappears, the dilution of parental time across multiple children creates substantial disadvantages for larger families.</p>
+  </div>
+</details>
 
 Sibling Spillovers on Education Trajectories
 
