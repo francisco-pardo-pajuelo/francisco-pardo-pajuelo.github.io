@@ -37,6 +37,15 @@ When the Household Becomes the School: Sibling Effects on Parental Attention and
 
 [**Long-Run Experimental Impacts of the “One Laptop Per Child” Program in Peru**](https://publications.iadb.org/publications/english/document/Laptops-in-the-Long-Run-Evidence-from-the-One-Laptop-per-Child-Program-in-Rural-Peru.pdf)  
 (with Diether Beuermann, Julian Cristia, Santiago Cueto and Ofer Malamud)    
+<details>
+  <summary><b>Abstract (click to expand)</b></summary>
+  <div>
+    <p> This paper examines a large-scale randomized evaluation of the One Laptop Per Child (OLPC) program in 531 rural primary schools, as implemented by Peru starting in 2009. We use administrative data on academic achievement and grade progression through 2019 to estimate the long-run effects of greater computer access on i) school performance over time and ii) students’ educational trajectories from primary school to university. Results suggest negative effects on grade progression and no improvement in academic achievement for treated schools over time. In turn, treated students had lower on-time primary and secondary completion, no higher academic achievement in secondary school, and no significant differences in university enrollment. Survey data from 2013 indicate that computer access significantly improved students’ computer skills but not their cognitive skills; treated teachers received some training but did not improve their digital skills and showed limited use of technology in classrooms, suggesting the need for additional pedagogical support.</p>
+  </div>
+</details>
+
+
+
 
 Sibling Spillovers on Education Trajectories
 
