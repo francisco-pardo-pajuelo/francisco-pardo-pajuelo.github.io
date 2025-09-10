@@ -47,13 +47,26 @@ When the Household Becomes the School: Sibling Effects on Parental Attention and
   </div>
 </details>    
 
- Sibling Spillovers on Education Trajectories
+Sibling Spillovers on Education Trajectories
+<details>
+  <summary>Abstract (click to expand)</summary>
+  <div>
+    <p> Family and social networks play a critical role in shaping educational decisions, with sibling influence being particularly significant. This paper examines the spillover effects of older siblings’ college admission on the educational trajectories of their younger siblings, from school performance and completion to college application decisions and outcomes during both the admissions process and college attendance. I leverage admission cutoffs in Peru’s decentralized public college system, where each institution administers its own entrance exam and application process, to isolate exogenous variation in college entry. The results show that younger siblings improve their academic performance in school and are significantly more likely to apply to four-year colleges when an older sibling is admitted. Using complementary survey data, I find that increased parental expectations are a key channel driving these effects. These findings suggest that in environments where college access is limited and admission processes are complex, siblings play an especially important role in bridging information gaps and serving as aspirational role models. </p>
+  </div>
+</details>   
+
+The Effect of Partisan Poll Watchers in Presidential Runoff Elections: 3 Close Elections in Peru
+<details>
+  <summary>Abstract (click to expand)</summary>
+  <div>
+    <p> The legitimacy of election results is key to democracy and political stability and party poll watchers play an important role in this. I study elections in Peru, where parties are allowed to assign poll watchers to monitor the electoral process and vote count. I find effects of up to 0.3 percentage points on the vote margin, significant in an election won by less than 0.5%. I also find evidence of smaller but significant cross-party effects and poll watchers' effect cancel each other out when both are present. Once I control for site-fixed effects, poll watchers assignment behaves as if random which is tested using results from a first round two months earlier with the same group of voters but no poll watchers. Finally, the results are consistent with poll watchers influencing invalid votes, especially by making votes for their party count. There is some suggestive evidence that poll watchers playing a role in preventing fraud when in areas dominated by the rival party.</p>
+  </div>
+</details>   
 
 Complementarities of Joint Decisions Over Health Insurance within a Household: Evidence from Medicare Part D
 
 Catastrophic Decisions: Household Reactions When Individual Members Age into or out of Health Insurance Eligibility Criteria
 
-The Effect of Partisan Poll Watchers in Presidential Runoff Elections: 3 Close Elections in Peru
 
 
 Spillovers of Going to a Better School on Older and Younger Siblings 
