@@ -1,6 +1,6 @@
 ---
 permalink: /
-#title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Francisco Pardo Pajuelo"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th year PhD student in Economics at the University of Texas at Austin and I conduct research in the field of Applied Microeconomics. You can reach me at *fpardo@utexas.edu*. Here you can find my [CV](http://francisco-pardo-pajuelo.github.io/files/CV_Francisco_Pardo_Pajuelo.pdf).
+I am a 6th year PhD student in Economics at the University of Texas at Austin and I conduct research in the field of Applied Microeconomics. You can reach me at *fpardo@utexas.edu*. Here you can find my [CV](http://francisco-pardo-pajuelo.github.io/files/CV_Francisco_Pardo_Pajuelo.pdf).
 
 
 Publications
@@ -35,7 +35,7 @@ When the Household Becomes the School: Sibling Effects on Parental Attention and
   </div>
 </details>
 
-[**Long-Run Experimental Impacts of the “One Laptop Per Child” Program in Peru **](https://publications.iadb.org/publications/english/document/Laptops-in-the-Long-Run-Evidence-from-the-One-Laptop-per-Child-Program-in-Rural-Peru.pdf)  
+[**Long-Run Experimental Impacts of the “One Laptop Per Child” Program in Peru**](https://publications.iadb.org/publications/english/document/Laptops-in-the-Long-Run-Evidence-from-the-One-Laptop-per-Child-Program-in-Rural-Peru.pdf)  
 (with Diether Beuermann, Julian Cristia, Santiago Cueto and Ofer Malamud)    
 
 Sibling Spillovers on Education Trajectories
