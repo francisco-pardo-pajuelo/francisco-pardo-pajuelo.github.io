@@ -2,6 +2,8 @@
 main:
   - title: "Publications"
     url: "/#publications"
+  - title: "Working Papers"
+    url: "/#working-papers"
   - title: "Work in Progress"
     url: "/#work-in-progress"
   - title: "Workshops"
