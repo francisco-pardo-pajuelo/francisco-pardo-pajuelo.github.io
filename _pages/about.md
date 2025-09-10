@@ -21,31 +21,33 @@ Publications
 <details style="display: inline-block;">
   <summary>Abstract (click to expand)</summary>
   <div>
-    <p>To explore whether schools’ causal impacts on test scores measure their overall impact on students, we exploit plausibly exogenous school assignments and data from Trinidad and Tobago to estimate the causal impacts of individual schools on several outcomes. Schools’ impacts on high-stakes tests are weakly related to impacts on important outcomes such as arrests, dropout, teen motherhood, and formal labor-market participation. To examine if parents’ school preferences are related to these causal impacts, we link them to parents’ ranked lists of schools and employ discrete-choice models to infer preferences for schools. Parents choose schools that improve high-stakes tests even conditional on peer quality and average outcomes. Parents also choose schools that reduce criminality and teen motherhood, and increase labor-market participation. School choices among parents of low-achieving students are relatively more strongly related to schools’ impacts on non-test-score outcomes, while the opposite is true for parents of high-achieving students. These results suggest that evaluations based solely on test scores may be misleading about the benefits of school choice (particularity for low-achieving students), and education interventions more broadly.</p>
+    <p>To explore whether schools’ causal impacts on test scores measure their overall impact on students, we exploit plausibly exogenous school assignments and data from Trinidad and Tobago to estimate the causal impacts of individual schools on several outcomes. Schools’ impacts on high-stakes tests are weakly related to impacts on important outcomes such as arrests, dropout, teen motherhood, and formal labor-market participation. To examine if parents’ school preferences are related to these causal impacts, we link them to parents’ ranked lists of schools and employ discrete-choice models to infer preferences for schools. Parents choose schools that improve high-stakes tests even conditional on peer quality and average outcomes. Parents also choose schools that reduce criminality and teen motherhood, and increase labor-market participation. School choices among parents of low-achieving students are relatively more strongly related to schools’ impacts on non-test-score outcomes, while the opposite is true for parents of high-achieving students. These results suggest that evaluations based solely on test scores may be misleading about the benefits of school choice (particularity for low-achieving students), and education interventions more broadly. </p>
   </div>
 </details>
+
+Working Papers
+------
+[**Long-Run Experimental Impacts of the “One Laptop Per Child” Program in Peru**](https://publications.iadb.org/publications/english/document/Laptops-in-the-Long-Run-Evidence-from-the-One-Laptop-per-Child-Program-in-Rural-Peru.pdf)  
+(with Diether Beuermann, Julian Cristia, Santiago Cueto and Ofer Malamud)    
+<details>
+  <summary>Abstract (click to expand)</summary>
+  <div>
+    <p> This paper examines a large-scale randomized evaluation of the One Laptop Per Child (OLPC) program in 531 rural primary schools, as implemented by Peru starting in 2009. We use administrative data on academic achievement and grade progression through 2019 to estimate the long-run effects of greater computer access on i) school performance over time and ii) students’ educational trajectories from primary school to university. Results suggest negative effects on grade progression and no improvement in academic achievement for treated schools over time. In turn, treated students had lower on-time primary and secondary completion, no higher academic achievement in secondary school, and no significant differences in university enrollment. Survey data from 2013 indicate that computer access significantly improved students’ computer skills but not their cognitive skills; treated teachers received some training but did not improve their digital skills and showed limited use of technology in classrooms, suggesting the need for additional pedagogical support. </p>
+  </div>
+</details>  
 
 
 Work in Progress
 ------
 When the Household Becomes the School: Sibling Effects on Parental Attention and Educational Outcomes During School Closures
 <details>
-  <summary><b>Abstract (click to expand)</b></summary>
+  <summary>Abstract (click to expand)</summary>
   <div>
-    <p> This paper examines how family structure affects educational outcomes when unexpected shocks dramatically increase parental time requirements for children's learning. Using administrative and survey data from Peru, I employ a difference-in-differences strategy that compares children with siblings to only children before, during, and after school closures caused by Covid-19. Students with siblings experienced significantly larger learning losses of up to 0.06 standard deviations in GPA and 0.17 standard deviations in standardized exams, with effects intensifying as the number of siblings increased. These differential impacts persist after schools reopened and appear across diverse subpopulations. Evidence points to parental time constraints as the primary mechanism. Effects are largest during primary education when parental investment matters the most and in families with higher socio-economic resources who tend to spend more time with their children. Households without PC or phone with internet show similar results which suggests siblings are not competing for access to resources. Regression discontinuity and IV approaches provide further evidence of the negative cost of increased childcare and family size. Consistent with these results, parents of students with siblings also reduced their expectations that their children will achieve higher education by up to 3.2 percentage points. Overall, these findings reveal fundamental insights about family resource allocation under stress. When external education support disappears, the dilution of parental time across multiple children creates substantial disadvantages for larger families.</p>
+    <p> This paper examines how family structure affects educational outcomes when unexpected shocks dramatically increase parental time requirements for children's learning. Using administrative and survey data from Peru, I employ a difference-in-differences strategy that compares children with siblings to only children before, during, and after school closures caused by Covid-19. Students with siblings experienced significantly larger learning losses of up to 0.06 standard deviations in GPA and 0.17 standard deviations in standardized exams, with effects intensifying as the number of siblings increased. These differential impacts persist after schools reopened and appear across diverse subpopulations. Evidence points to parental time constraints as the primary mechanism. Effects are largest during primary education when parental investment matters the most and in families with higher socio-economic resources who tend to spend more time with their children. Households without PC or phone with internet show similar results which suggests siblings are not competing for access to resources. Regression discontinuity and IV approaches provide further evidence of the negative cost of increased childcare and family size. Consistent with these results, parents of students with siblings also reduced their expectations that their children will achieve higher education by up to 3.2 percentage points. Overall, these findings reveal fundamental insights about family resource allocation under stress. When external education support disappears, the dilution of parental time across multiple children creates substantial disadvantages for larger families. </p>
   </div>
-</details>   
+</details>    
 
-[**Long-Run Experimental Impacts of the “One Laptop Per Child” Program in Peru**](https://publications.iadb.org/publications/english/document/Laptops-in-the-Long-Run-Evidence-from-the-One-Laptop-per-Child-Program-in-Rural-Peru.pdf)  
-(with Diether Beuermann, Julian Cristia, Santiago Cueto and Ofer Malamud)    
-<details>
-  <summary><b>Abstract (click to expand)</b></summary>
-  <div>
-    <p> This paper examines a large-scale randomized evaluation of the One Laptop Per Child (OLPC) program in 531 rural primary schools, as implemented by Peru starting in 2009. We use administrative data on academic achievement and grade progression through 2019 to estimate the long-run effects of greater computer access on i) school performance over time and ii) students’ educational trajectories from primary school to university. Results suggest negative effects on grade progression and no improvement in academic achievement for treated schools over time. In turn, treated students had lower on-time primary and secondary completion, no higher academic achievement in secondary school, and no significant differences in university enrollment. Survey data from 2013 indicate that computer access significantly improved students’ computer skills but not their cognitive skills; treated teachers received some training but did not improve their digital skills and showed limited use of technology in classrooms, suggesting the need for additional pedagogical support.</p>
-  </div>
-</details>   
-
-Sibling Spillovers on Education Trajectories
+ Sibling Spillovers on Education Trajectories
 
 Complementarities of Joint Decisions Over Health Insurance within a Household: Evidence from Medicare Part D
 
