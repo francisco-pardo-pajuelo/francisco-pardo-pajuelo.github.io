@@ -18,6 +18,12 @@ Publications
 *(with Diether Beuermann, C. Kirabo Jackson and Laia Navarro-Sola)*  
 Review of Economic Studies, June 2022  
 [online appendix](http://francisco-pardo-pajuelo.github.io/files/beuermann_et_al_2022_What_is_a_good_school_APPENDIX.pdf)
+<details>
+  <summary><b>Abstract</b></summary>
+  <div>
+    <p>Abstract 123</p>
+  </div>
+</details>
 
 Work in Progress
 ------
