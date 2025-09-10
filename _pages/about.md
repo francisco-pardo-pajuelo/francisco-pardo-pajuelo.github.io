@@ -17,8 +17,7 @@ Publications
 **[What is a Good School, and Can Parents Tell? Evidence on the Multidimensionality of School Output](http://francisco-pardo-pajuelo.github.io/files/beuermann_et_al_2022_What_is_a_good_school.pdf)**  
 (with Diether Beuermann, C. Kirabo Jackson, and Laia Navarro-Sola)   
 *Review of Economic Studies, June 2022*   
-[online appendix](http://francisco-pardo-pajuelo.io/files/beuermann_et_al_2022_What_is_a_good_school_APPENDIX.pdf) 
-<details>
+[online appendix](http://francisco-pardo-pajuelo.io/files/beuermann_et_al_2022_What_is_a_good_school_APPENDIX.pdf) <details>
   <summary>Abstract</summary>
   <div>
     <p>To explore whether schools’ causal impacts on test scores measure their overall impact on students, we exploit plausibly exogenous school assignments and data from Trinidad and Tobago to estimate the causal impacts of individual schools on several outcomes. Schools’ impacts on high-stakes tests are weakly related to impacts on important outcomes such as arrests, dropout, teen motherhood, and formal labor-market participation. To examine if parents’ school preferences are related to these causal impacts, we link them to parents’ ranked lists of schools and employ discrete-choice models to infer preferences for schools. Parents choose schools that improve high-stakes tests even conditional on peer quality and average outcomes. Parents also choose schools that reduce criminality and teen motherhood, and increase labor-market participation. School choices among parents of low-achieving students are relatively more strongly related to schools’ impacts on non-test-score outcomes, while the opposite is true for parents of high-achieving students. These results suggest that evaluations based solely on test scores may be misleading about the benefits of school choice (particularity for low-achieving students), and education interventions more broadly.</p>
