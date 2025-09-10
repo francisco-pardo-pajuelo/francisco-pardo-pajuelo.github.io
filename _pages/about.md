@@ -67,9 +67,7 @@ Complementarities of Joint Decisions Over Health Insurance within a Household: E
 
 Catastrophic Decisions: Household Reactions When Individual Members Age into or out of Health Insurance Eligibility Criteria
 
-
-
-Spillovers of Going to a Better School on Older and Younger Siblings 
+Spillovers of Going to a Better School on Older and Younger Siblings  
 (with Diether Beuermann, Patricio Dominguez, C. Kirabo Jackson and Diego Vera-Cossio)  
 
 Workshops
