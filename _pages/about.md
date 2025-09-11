@@ -89,6 +89,11 @@ TEST2
   </div>
 </details>  
 
+TEST3
+<details><summary>Abstract (click to expand)</summary><div>
+text3
+</div></details>
+
 Workshops
 ------
 Price Theory Summer Camp, 2023
