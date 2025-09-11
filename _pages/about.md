@@ -72,6 +72,7 @@ Catastrophic Decisions: Household Reactions When Individual Members Age into or 
 Spillovers of Going to a Better School on Older and Younger Siblings  
 (with Diether Beuermann, Patricio Dominguez, C. Kirabo Jackson and Diego Vera-Cossio)  
 
+<!--
 TEST
 <details>
   <summary>Abstract (click to expand)</summary>
@@ -83,16 +84,7 @@ TEST
 TEST2
 <details><summary>Abstract (click to expand)</summary><div>text2</div></details>
 <br>
-TEST3 <details><summary>Abstract (click to expand)</summary><div>text2</div></details>
-<br>
-TEST4<details><summary>Abstract (click to expand)</summary><div>text3</div></details>
-<br>
-TEST5
-<details><summary>Abstract (click to expand)</summary></details>
-<br>
-TEST6
-<details>Abstract (click to expand)</details>
-<br>
+-->
 
 
 
