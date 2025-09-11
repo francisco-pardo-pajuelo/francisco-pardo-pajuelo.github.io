@@ -369,6 +369,10 @@ details div {
     line-height: 1.65;
 }
 
+p + details {
+  margin-top: 0;
+}
+
 
 /* Fix abstract spacing issues */
 .publication {
