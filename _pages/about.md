@@ -111,7 +111,7 @@ Russell Sage Summer Institute in Behavioral Economics, 2022
 UC Davis Summer School on the Economics of Migration, 2022  
 (organized by Giovanni Peri)
 
-1st Texas Applied Microeconomics Student (TEAMS) Workshop, 2022  
+1st Texas Applied Microeconomics Student (TEAMS) Workshop, 2022   
 (organizer) 
 <br> 
 
