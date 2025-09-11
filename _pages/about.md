@@ -66,7 +66,6 @@ The Effect of Partisan Poll Watchers in Presidential Runoff Elections: 3 Close E
   </div>
 </details>   
 <br>
-
 Complementarities of Joint Decisions Over Health Insurance within a Household: Evidence from Medicare Part D
 
 Catastrophic Decisions: Household Reactions When Individual Members Age into or out of Health Insurance Eligibility Criteria
