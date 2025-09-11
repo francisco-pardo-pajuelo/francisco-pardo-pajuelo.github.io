@@ -320,8 +320,18 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, tr
 
 /*MY OWN CHANGES*/
 
+/* Remove spacing issues from details element */
+details {
+    display: inline-block;
+    margin: 0 !important; /* Remove all margins */
+    padding: 0 !important; /* Remove all padding */
+    vertical-align: baseline;
+}
+
 /* Remove the triangle/bullet point from details */
 details summary {
+    margin: 0 !important;
+    padding: 0 !important;
     list-style: none; /* Removes the triangle in most browsers */
     cursor: pointer;
     color: #0066cc;
@@ -342,18 +352,52 @@ details summary::marker {
 
 /* Hover effect */
 details summary:hover {
-    text-decoration: underline;
+    //text-decoration: underline;
+   color: mix(#000, #0066cc, 25%); /* Same as your link hover color */
 }
 
 /* Style the expanded content */
+/* Add bottom margin to expanded content to separate from next publication */
 details div {
     margin-top: 0.8em;
+    margin-bottom: 1.5em; /* Space after expanded abstract */
     padding: 1em;
     background-color: #f8f9fa;
     border-left: 3px solid #ddd;
     text-align: justify;
     line-height: 1.65;
 }
+
+
+/* Fix abstract spacing issues */
+.publication {
+    margin-bottom: 2.5em; /* More space between publications */
+    padding-bottom: 0.5em;
+}
+
+.publication-title {
+    margin-bottom: 0.3em; /* Tighter spacing after title */
+}
+
+.publication-authors {
+    margin-bottom: 0.2em; /* Tighter spacing after authors */
+}
+
+.publication-venue {
+    margin-bottom: 0.3em; /* Tighter spacing after venue */
+}
+
+/* Container for links and abstract - keeps them together */
+.links-line {
+    margin-bottom: 0.5em; /* Small space after the entire links line */
+    line-height: 1.4;
+}
+
+
+
+
+
+
 
 
 
