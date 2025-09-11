@@ -109,9 +109,9 @@ Contact
 ------
 * **Email:** fpardo@utexas.edu
 * **Office:** BRB 3.150, Department of Economics, University of Texas at Austin
-* **Twitter:** [@your_twitter]([https://twitter.com/your_twitter](https://x.com/franciscopardop))
+* **Twitter:** [@franciscopardop]([https://twitter.com/your_twitter](https://x.com/franciscopardop))
 <!--* **GitHub:** [francisco-pardo-pajuelo](https://github.com/francisco-pardo-pajuelo) -->
-* **LinkedIn:** [your_linkedin](https://www.linkedin.com/in/francisco-pardo-pajuelo/)
+<!--* **LinkedIn:** [your_linkedin](https://www.linkedin.com/in/francisco-pardo-pajuelo/) -->
 
 
 
