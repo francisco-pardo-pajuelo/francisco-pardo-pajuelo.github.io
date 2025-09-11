@@ -75,12 +75,14 @@ Spillovers of Going to a Better School on Older and Younger Siblings
 <br> 
 
 Test
-<details style="margin: -1em 0 0 0; padding: 0;">
-  <summary style="list-style: none;">Abstract (click to expand)</summary>
-  <div>
-    <p>Text.</p>
-  </div>
-</details>
+<div style="margin-top: -1.2em;">
+  <details>
+    <summary>Abstract (click to expand)</summary>
+    <div>
+      <p>test</p>
+    </div>
+  </details>
+</div>
 
 <!--
 TEST
