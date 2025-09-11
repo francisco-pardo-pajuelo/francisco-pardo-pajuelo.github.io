@@ -112,7 +112,7 @@ blockquote {
 /* links */
 
 a {
-  text-decoration: none; // REMOVES UNDERLINE FROM ALL LINKS
+  text-decoration: none !important; /* Force removal of underlines */
   &:focus {
     @extend %tab-focus;
   }
@@ -120,6 +120,7 @@ a {
   &:hover,
   &:active {
     color: $link-color-hover; /* Add this line */
+    text-decoration: none !important; /* Keep no underline on hover too */
     outline: 0;
   }
 }
