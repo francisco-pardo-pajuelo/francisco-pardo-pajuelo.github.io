@@ -46,8 +46,8 @@ Working Papers
 Work in Progress
 ------
 
-When the Household Becomes the School: Sibling Effects on Parental Attention and Educational Outcomes During School Closures
-*Job Market Paper*   
+When the Household Becomes the School: Sibling Effects on Parental Attention and Educational Outcomes During School Closures  
+***Job Market Paper***   
 <div style="margin-top: -1.2em;">
   <details>
     <summary>Abstract (click to expand)</summary>
