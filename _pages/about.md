@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a 6th year PhD student in Economics at the University of Texas at Austin and I conduct research in the field of Applied Microeconomics. You can reach me at *fpardo@utexas.edu*. Here you can find my [CV](http://francisco-pardo-pajuelo.github.io/files/CV_Francisco_Pardo_Pajuelo.pdf).
+I am a 6th year PhD student in Economics at the University of Texas at Austin and I conduct research in the field of Applied Microeconomics. You can reach me at *fpardo@utexas.edu*. Here you can find my [CV](http://francisco-pardo-pajuelo.github.io/files/CV_Francisco_Pardo_Pajuelo.pdf). 
+<br> 
 
 
 Publications
@@ -72,7 +73,8 @@ Catastrophic Decisions: Household Reactions When Individual Members Age into or 
 
 Spillovers of Going to a Better School on Older and Younger Siblings  
 (with Diether Beuermann, Patricio Dominguez, C. Kirabo Jackson and Diego Vera-Cossio)  
-<br>
+<br> 
+
 <!--
 TEST
 <details>
@@ -102,7 +104,8 @@ UC Davis Summer School on the Economics of Migration, 2022
 
 1st Texas Applied Microeconomics Student (TEAMS) Workshop, 2022
 (organizer) 
-<br>
+<br> 
+
 
 
 Contact
