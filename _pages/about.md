@@ -84,6 +84,16 @@ Test
   </details>
 </div>
 
+<div class="paper">
+  <div class="paper-title">Test2</div>
+  <details>
+    <summary>Abstract (click to expand)</summary>
+    <div>
+      <p>Your abstract text here...</p>
+    </div>
+  </details>
+</div>
+
 <!--
 TEST
 <details>
