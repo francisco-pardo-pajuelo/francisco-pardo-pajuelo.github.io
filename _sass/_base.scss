@@ -317,7 +317,7 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, tr
 
 
 /* Remove the bullet point from the abstract's expandable link */
-details summary::-webkit-details-marker {
+details summary::-webkit-details-marker { 
   display: none;
 }
 details summary::marker {
