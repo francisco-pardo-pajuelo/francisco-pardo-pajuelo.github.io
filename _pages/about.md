@@ -102,7 +102,7 @@ TEST2
 
 Workshops
 ------
-Price Theory Summer Camp, 2023
+Price Theory Summer Camp, 2023  
 (organized by Kevin Murphy)  
 
 Russell Sage Summer Institute in Behavioral Economics, 2022  
