@@ -88,9 +88,7 @@ TEST2
   </div>
 </details>  
 <br>
-TEST3<details><summary>Abstract (click to expand)</summary><div>
-text3
-</div></details>
+TEST3<details><summary>Abstract (click to expand)</summary><div>text3</div></details>
 <br>
 TEST4<details><summary>Abstract (click to expand)</summary><div></div></details>
 <br>
