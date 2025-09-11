@@ -317,3 +317,43 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, tr
 
 
 
+/*MY OWN CHANGES*/
+
+/* Remove the triangle/bullet point from details */
+details summary {
+    list-style: none; /* Removes the triangle in most browsers */
+    cursor: pointer;
+    color: #0066cc;
+    text-decoration: none;
+    font-size: 0.95em;
+    display: inline;
+}
+
+/* Remove triangle in WebKit browsers (Chrome, Safari) */
+details summary::-webkit-details-marker {
+    display: none;
+}
+
+/* Remove triangle in Firefox */
+details summary::marker {
+    display: none;
+}
+
+/* Hover effect */
+details summary:hover {
+    text-decoration: underline;
+}
+
+/* Style the expanded content */
+details div {
+    margin-top: 0.8em;
+    padding: 1em;
+    background-color: #f8f9fa;
+    border-left: 3px solid #ddd;
+    text-align: justify;
+    line-height: 1.65;
+}
+
+
+
+
