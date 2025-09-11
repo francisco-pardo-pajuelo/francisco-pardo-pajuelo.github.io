@@ -74,6 +74,14 @@ Spillovers of Going to a Better School on Older and Younger Siblings
 (with Diether Beuermann, Patricio Dominguez, C. Kirabo Jackson and Diego Vera-Cossio)  
 <br> 
 
+Test
+<details style="margin: -1em 0 0 0; padding: 0;">
+  <summary style="list-style: none;">Abstract (click to expand)</summary>
+  <div>
+    <p>Text.</p>
+  </div>
+</details>
+
 <!--
 TEST
 <details>
