@@ -92,6 +92,13 @@ TEST3
 <details><summary>Abstract (click to expand)</summary><div>
 text3
 </div></details>
+<br>
+TEST4
+<details><summary>Abstract (click to expand)</summary></details>
+<br>
+TEST4
+<details>Abstract (click to expand)</details>
+<br>
 
 Workshops
 ------
