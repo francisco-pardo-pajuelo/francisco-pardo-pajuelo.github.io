@@ -29,7 +29,7 @@ Publications
 Working Papers
 ------
 [**Long-Run Experimental Impacts of the “One Laptop Per Child” Program in Peru**](https://publications.iadb.org/publications/english/document/Laptops-in-the-Long-Run-Evidence-from-the-One-Laptop-per-Child-Program-in-Rural-Peru.pdf)  
-(with Diether Beuermann, Julian Cristia, Santiago Cueto and Ofer Malamud)    
+(with Diether Beuermann, Julian Cristia, Santiago Cueto and Ofer Malamud)
 <details>
   <summary>Abstract (click to expand)</summary>
   <div>
