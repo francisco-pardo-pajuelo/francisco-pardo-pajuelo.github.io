@@ -334,7 +334,7 @@ details summary {
     padding: 0 !important;
     list-style: none; /* Removes the triangle in most browsers */
     cursor: pointer;
-    color: #0066cc;
+    color: $link-color;
     text-decoration: none;
     font-size: 0.95em;
     display: inline;
@@ -353,7 +353,7 @@ details summary::marker {
 /* Hover effect */
 details summary:hover {
     //text-decoration: underline;
-   color: mix(#000, #0066cc, 25%); /* Same as your link hover color */
+   color: $link-color-hover;
 }
 
 /* Style the expanded content */
