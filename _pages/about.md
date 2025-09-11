@@ -72,7 +72,7 @@ Catastrophic Decisions: Household Reactions When Individual Members Age into or 
 
 Spillovers of Going to a Better School on Older and Younger Siblings  
 (with Diether Beuermann, Patricio Dominguez, C. Kirabo Jackson and Diego Vera-Cossio)  
-
+<br>
 <!--
 TEST
 <details>
@@ -102,7 +102,7 @@ UC Davis Summer School on the Economics of Migration, 2022
 
 1st Texas Applied Microeconomics Student (TEAMS) Workshop, 2022
 (organizer) 
-
+<br>
 
 
 Contact
