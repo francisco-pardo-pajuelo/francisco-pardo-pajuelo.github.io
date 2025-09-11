@@ -323,8 +323,8 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, tr
 
 /* Remove spacing issues from details element */
 details {
-    display: inline-block;
-    margin: -1em 0 0 0 !important; /* top right bottom left */
+    display: inline;
+    margin: 0 !important;
     padding: 0 !important;
     vertical-align: baseline;
 }
@@ -370,7 +370,7 @@ details div {
 }
 
 p + details {
-  margin-top: 0;
+  margin-top: 0 !important;
 }
 
 
