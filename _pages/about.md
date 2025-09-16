@@ -129,7 +129,7 @@ Contact
 <!--* **LinkedIn:** [your_linkedin](https://www.linkedin.com/in/francisco-pardo-pajuelo/) -->
 
 
-[**photo**](http://francisco-pardo-pajuelo.github.io/images/pardo_h_street_edit_lq.jpg)
+[photo](http://francisco-pardo-pajuelo.github.io/images/pardo_h_street_edit_lq.jpg)
 
 
 
