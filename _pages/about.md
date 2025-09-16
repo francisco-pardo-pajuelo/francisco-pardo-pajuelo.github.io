@@ -33,7 +33,8 @@ Media: [VoxDev](https://voxdev.org/topic/education/multidimensionality-school-ch
 Working Papers
 ------
 [**Long-Run Experimental Impacts of the “One Laptop Per Child” Program in Peru**](https://publications.iadb.org/publications/english/document/Laptops-in-the-Long-Run-Evidence-from-the-One-Laptop-per-Child-Program-in-Rural-Peru.pdf)  
-(with Diether Beuermann, Julian Cristia, Santiago Cueto and Ofer Malamud)
+(with Diether Beuermann, Julian Cristia, Santiago Cueto and Ofer Malamud)  
+Media: [VoxDev](https://www.voxdev.org/topic/education/one-laptop-child-lessons-long-term-follow)  
 <div style="margin-top: -1.2em;">
   <details>
     <summary>Abstract (click to expand)</summary>
