@@ -19,7 +19,7 @@ Publications
 (with Diether Beuermann, C. Kirabo Jackson, and Laia Navarro-Sola)   
 *Review of Economic Studies, June 2022*  
 Media: [VoxDev](https://voxdev.org/topic/education/multidimensionality-school-choice-evidence-trinidad-and-tobago) | [Caribbean Dev Trends (IDB)](https://blogs.iadb.org/caribbean-dev-trends/en/do-test-scores-determine-school-quality/) | [Nada es Gratis](https://nadaesgratis.es/admin/determinan-las-puntuaciones-en-los-examenes-estandardizados-la-calidad-de-las-escuelas) (Spanish)  
-[online appendix](http://francisco-pardo-pajuelo.io/files/beuermann_et_al_2022_What_is_a_good_school_APPENDIX.pdf)
+[Online Appendix](http://francisco-pardo-pajuelo.io/files/beuermann_et_al_2022_What_is_a_good_school_APPENDIX.pdf)
 <div style="margin-top: -1.2em;">
   <details>
     <summary>Abstract (click to expand)</summary>
