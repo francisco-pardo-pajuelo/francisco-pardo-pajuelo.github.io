@@ -129,7 +129,16 @@ Contact
 <!--* **LinkedIn:** [your_linkedin](https://www.linkedin.com/in/francisco-pardo-pajuelo/) -->
 
 
-[photo](http://francisco-pardo-pajuelo.github.io/images/pardo_h_street_edit_lq.jpg)
+<!--
+Personal
+------
+
+[My actual field of interest](http://francisco-pardo-pajuelo.github.io/images/pardo_h_street_edit_lq.jpg)
+[My time in Austin (bbq)](http://francisco-pardo-pajuelo.github.io/images/pardo_h_street_edit_lq.jpg) 
+[My best decisions](http://francisco-pardo-pajuelo.github.io/images/pardo_h_street_edit_lq.jpg) 
+
+
+-->
 
 
 
