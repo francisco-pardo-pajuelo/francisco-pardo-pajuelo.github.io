@@ -1,5 +1,7 @@
 # main links links
 main:
+  - title: "Contact"
+    url: "/#contact"
   - title: "Publications"
     url: "/#publications"
   - title: "Working Papers"
@@ -8,5 +10,5 @@ main:
     url: "/#work-in-progress"
   - title: "Workshops"
     url: "/#workshops"
-  - title: "Contact"
-    url: "/#contact"
+  - title: "Personal"
+    url: "/#personal"
