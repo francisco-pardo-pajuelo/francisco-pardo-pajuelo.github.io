@@ -1,5 +1,13 @@
 ---
 permalink: /
+redirect_from:
+  - /about/
+  - /about.html
+---
+
+<!--
+---
+permalink: /
 title: "Francisco Pardo Pajuelo"
 excerpt: "About me"
 author_profile: true
@@ -8,15 +16,6 @@ redirect_from:
   - /about.html
 ---
 
-
-<!--
-
----
-permalink: /
-redirect_from:
-  - /about/
-  - /about.html
----
 -->
 
 Bio
