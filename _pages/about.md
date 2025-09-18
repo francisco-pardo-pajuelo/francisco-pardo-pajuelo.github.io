@@ -65,7 +65,6 @@ Media: [VoxDev](https://www.voxdev.org/topic/education/one-laptop-child-lessons-
     </div>
   </details>
 </div>
-<br>
 
 Work in Progress
 ------
@@ -107,7 +106,6 @@ Catastrophic Decisions: Household Reactions When Individual Members Age into or 
 
 Spillovers of Going to a Better School on Older and Younger Siblings  
 (with Diether Beuermann, Patricio Dominguez, C. Kirabo Jackson and Diego Vera-Cossio)  
-<br> 
 
 <!--
 TEST
@@ -124,7 +122,6 @@ TEST2
 -->
 
 
-
 Workshops
 ------
 Price Theory Summer Camp, 2023  
@@ -137,9 +134,7 @@ UC Davis Summer School on the Economics of Migration, 2022
 (organized by Giovanni Peri)
 
 1st Texas Applied Microeconomics Student (TEAMS) Workshop, 2022   
-(organizer) 
-<br> 
-
+(organizer)   
 
 Personal
 ------
