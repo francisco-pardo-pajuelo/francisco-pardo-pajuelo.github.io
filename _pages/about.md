@@ -1,3 +1,4 @@
+<!--
 ---
 permalink: /
 title: "Francisco Pardo Pajuelo"
@@ -7,6 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+-->
 
 Bio
 ------
