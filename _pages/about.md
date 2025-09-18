@@ -15,9 +15,9 @@ I am a 6th year PhD student in Economics at the University of Texas at Austin an
 
 Contact
 ------
-* **Email:** fpardo@utexas.edu
-* **Office:** BRB 3.150, Department of Economics, University of Texas at Austin
-* **Twitter:** [@franciscopardop](https://x.com/franciscopardop)
+**Email:** fpardo@utexas.edu  
+**Office:** BRB 3.150, Department of Economics, University of Texas at Austin  
+**Twitter:** [@franciscopardop](https://x.com/franciscopardop)  
 <!--* **GitHub:** [francisco-pardo-pajuelo](https://github.com/francisco-pardo-pajuelo) -->
 <!--* **LinkedIn:** [your_linkedin](https://www.linkedin.com/in/francisco-pardo-pajuelo/) -->
 
