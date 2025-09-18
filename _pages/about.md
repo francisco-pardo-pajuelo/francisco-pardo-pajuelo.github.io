@@ -1,7 +1,7 @@
 
 ---
 permalink: /
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
