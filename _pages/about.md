@@ -22,17 +22,7 @@ Contact
 <!--* **LinkedIn:** [your_linkedin](https://www.linkedin.com/in/francisco-pardo-pajuelo/) -->
 
 
-<!--
----
-permalink: /
-title: "Francisco Pardo Pajuelo"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
--->
+
 
 
 Publications
