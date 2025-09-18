@@ -146,10 +146,10 @@ Personal
 ------
 
 [My actual field of interest](http://francisco-pardo-pajuelo.github.io/images/soccer.jpg)  
-<!--[My time in Austin (bbq)](http://francisco-pardo-pajuelo.github.io/images/pardo_h_street_edit_lq.jpg) -->
 [My best decisions](http://francisco-pardo-pajuelo.github.io/images/loves.jpg)  
 [My fostering friend #1](http://francisco-pardo-pajuelo.github.io/images/bibi.jpg)  
 [My fostering friend #2](http://francisco-pardo-pajuelo.github.io/images/rocky.jpg) 
+<!--[My time in Austin (bbq)](http://francisco-pardo-pajuelo.github.io/images/pardo_h_street_edit_lq.jpg) -->
 
 
 
