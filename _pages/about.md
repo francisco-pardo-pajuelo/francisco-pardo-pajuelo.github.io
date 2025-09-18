@@ -51,7 +51,6 @@ Media: [VoxDev](https://voxdev.org/topic/education/multidimensionality-school-ch
     </div>
   </details>
 </div>
-<br>
 
 Working Papers
 ------
