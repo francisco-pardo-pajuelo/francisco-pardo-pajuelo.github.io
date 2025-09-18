@@ -1,4 +1,4 @@
-<img width="1388" height="809" alt="image" src="https://github.com/user-attachments/assets/3c4b409e-7b2e-4a1a-98c1-559666255a50" />---
+---
 permalink: /
 redirect_from:
   - /about/
