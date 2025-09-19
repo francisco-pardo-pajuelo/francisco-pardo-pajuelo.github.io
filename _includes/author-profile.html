@@ -6,27 +6,6 @@
 
 <div itemscope itemtype="http://schema.org/Person">
 
-  <nav class="nav--main">
-    <ul class="nav__list">
-      {% for link in site.data.navigation.main %}
-        <li class="nav__item">
-          <a href="{{ link.url }}" class="nav__link">{{ link.title }}</a>
-        </li>
-      {% endfor %}
-    </ul>
-  </nav>
-  
-<div class="author__avatar">
-  {% if author.avatar contains "://" %}
-  <a href="{{ author.avatar }}" class="lightbox">
-    <img src="{{ author.avatar }}" alt="{{ author.name }}">
-  </a>
-  {% else %}
-  <a href="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="lightbox">
-    <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
-  </a>
-  {% endif %}
-</div>
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
@@ -135,6 +114,29 @@
     </ul>
   </div>
 -->
+  
+  <nav class="nav--main">
+    <ul class="nav__list">
+      {% for link in site.data.navigation.main %}
+        <li class="nav__item">
+          <a href="{{ link.url }}" class="nav__link">{{ link.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </nav>
+  
+<div class="author__avatar">
+  {% if author.avatar contains "://" %}
+  <a href="{{ author.avatar }}" class="lightbox">
+    <img src="{{ author.avatar }}" alt="{{ author.name }}">
+  </a>
+  {% else %}
+  <a href="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="lightbox">
+    <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
+  </a>
+  {% endif %}
+</div>
+
 
   
 </div>
