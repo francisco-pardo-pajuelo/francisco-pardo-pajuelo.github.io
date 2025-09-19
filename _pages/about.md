@@ -13,7 +13,7 @@ I am a 6th year PhD student in Economics at the University of Texas at Austin an
 <!--You can reach me at *fpardo@utexas.edu*.-->
 <br> 
 
-Contact and Information
+Contact
 ------
 **Email:** fpardo@utexas.edu  
 **Office:** BRB 3.150, Department of Economics, University of Texas at Austin  
