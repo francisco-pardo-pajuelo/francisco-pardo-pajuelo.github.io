@@ -80,7 +80,8 @@ Work in Progress
   </details>
 </div>
 <br>
-**Sibling Spillovers on Education Trajectories**
+
+**Sibling Spillovers on Education Trajectories** 
 <div style="margin-top: -1.2em;">
   <details>
     <summary>Abstract (click to expand)</summary>
@@ -90,6 +91,7 @@ Work in Progress
   </details>
 </div>
 <br>
+
 **The Effect of Partisan Poll Watchers in Presidential Runoff Elections: 3 Close Elections in Peru**
 <div style="margin-top: -1.2em;">
   <details>
@@ -100,6 +102,7 @@ Work in Progress
   </details>
 </div>
 <br>
+
 **Complementarities of Joint Decisions Over Health Insurance within a Household: Evidence from Medicare Part D**
 
 **Catastrophic Decisions: Household Reactions When Individual Members Age into or out of Health Insurance Eligibility Criteria**
