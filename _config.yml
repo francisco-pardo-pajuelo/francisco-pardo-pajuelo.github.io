@@ -83,11 +83,11 @@ author:
   name             : "Francisco Pardo"
   avatar           : "pardo_v_street_edit_lq.jpg"
   bio              : "PhD student in Economics at University of Texas at Austin"
-  location         : "Austin, TX"
+  #location         : "Austin, TX"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=zCcj60wAAAAJ&hl=en&oi=ao" #http://yourfullgooglescholarurl.com
-  email            : "fpardo@utexas.edu"
+  #googlescholar    : "https://scholar.google.com/citations?user=zCcj60wAAAAJ&hl=en&oi=ao" #http://yourfullgooglescholarurl.com
+  #email            : "fpardo@utexas.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "francisco-pardo-pajuelo" #francisco-pardo-pajuelo
+  #github           : "francisco-pardo-pajuelo" #francisco-pardo-pajuelo
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "franciscopardop" #replacethistwitterhandle
+  #twitter          : "franciscopardop" #replacethistwitterhandle
   vine             :
   weibo            :
   xing             :
