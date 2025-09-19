@@ -6,6 +6,16 @@
 
 <div itemscope itemtype="http://schema.org/Person">
 
+  <nav class="nav--main">
+    <ul class="nav__list">
+      {% for link in site.data.navigation.main %}
+        <li class="nav__item">
+          <a href="{{ link.url }}" class="nav__link">{{ link.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </nav>
+  
 <div class="author__avatar">
   {% if author.avatar contains "://" %}
   <a href="{{ author.avatar }}" class="lightbox">
@@ -125,14 +135,6 @@
     </ul>
   </div>
 -->
-  <nav class="nav--main">
-    <ul class="nav__list">
-      {% for link in site.data.navigation.main %}
-        <li class="nav__item">
-          <a href="{{ link.url }}" class="nav__link">{{ link.title }}</a>
-        </li>
-      {% endfor %}
-    </ul>
-  </nav>
+
   
 </div>
