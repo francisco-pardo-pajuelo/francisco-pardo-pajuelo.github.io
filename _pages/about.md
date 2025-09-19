@@ -69,7 +69,7 @@ Media: [VoxDev](https://www.voxdev.org/topic/education/one-laptop-child-lessons-
 Work in Progress
 ------
 
-When the Household Becomes the School: Sibling Effects on Parental Attention and Educational Outcomes During School Closures  
+**When the Household Becomes the School: Sibling Effects on Parental Attention and Educational Outcomes During School Closures**  
 <!--***Job Market Paper*** -->
 <div style="margin-top: -1.2em;">
   <details>
@@ -80,7 +80,7 @@ When the Household Becomes the School: Sibling Effects on Parental Attention and
   </details>
 </div>
 <br>
-Sibling Spillovers on Education Trajectories
+**Sibling Spillovers on Education Trajectories**
 <div style="margin-top: -1.2em;">
   <details>
     <summary>Abstract (click to expand)</summary>
@@ -90,7 +90,7 @@ Sibling Spillovers on Education Trajectories
   </details>
 </div>
 <br>
-The Effect of Partisan Poll Watchers in Presidential Runoff Elections: 3 Close Elections in Peru
+**The Effect of Partisan Poll Watchers in Presidential Runoff Elections: 3 Close Elections in Peru**
 <div style="margin-top: -1.2em;">
   <details>
     <summary>Abstract (click to expand)</summary>
@@ -100,11 +100,11 @@ The Effect of Partisan Poll Watchers in Presidential Runoff Elections: 3 Close E
   </details>
 </div>
 <br>
-Complementarities of Joint Decisions Over Health Insurance within a Household: Evidence from Medicare Part D
+**Complementarities of Joint Decisions Over Health Insurance within a Household: Evidence from Medicare Part D**
 
-Catastrophic Decisions: Household Reactions When Individual Members Age into or out of Health Insurance Eligibility Criteria
+**Catastrophic Decisions: Household Reactions When Individual Members Age into or out of Health Insurance Eligibility Criteria**
 
-Spillovers of Going to a Better School on Older and Younger Siblings  
+**Spillovers of Going to a Better School on Older and Younger Siblings**  
 (with Diether Beuermann, Patricio Dominguez, C. Kirabo Jackson and Diego Vera-Cossio)  
 
 <!--
