@@ -168,7 +168,10 @@
 }
 
 .author__bio {
-  margin: 0;
+  /* Remove the margin: 0; line */
+
+  /* Add margin to apply to all screens */
+  margin-top: 5px; /* Adjust this value as needed */
 
   @include breakpoint($large) {
     margin-top: 10px;
