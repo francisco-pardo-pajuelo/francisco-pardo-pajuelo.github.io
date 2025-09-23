@@ -148,7 +148,7 @@
 
   @include breakpoint($large) {
     display: block;
-    width: 120%;
+    width: auto;
     padding-left: 0;
     padding-right: 0;
   }
@@ -172,6 +172,7 @@
 
   /* Add margin to apply to all screens */
   margin-top: 5px; /* Adjust this value as needed */
+  margin-bottom: 1em; /* Add a bottom margin here */
 
   @include breakpoint($large) {
     margin-top: 10px;
