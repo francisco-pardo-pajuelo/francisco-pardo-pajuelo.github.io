@@ -317,3 +317,12 @@
 .nav--main {
   margin-bottom: 1em; /* This adds space below the entire navigation list */
 }
+
+
+
+.divider-space {
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+  border-top: 1px solid $border-color;
+  clear: both;
+}
