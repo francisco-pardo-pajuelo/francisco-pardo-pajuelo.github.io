@@ -436,6 +436,9 @@
    ========================================================================== */
 
 .nav--main {
+  .nav__item {
+    margin-bottom: 0.5em; /* This adds vertical space between links */
+  }
   .nav__link {
     color: $link-color;
     &:hover {
