@@ -82,7 +82,7 @@ Work in Progress
 </div>
 <br>
 
-**Sibling Spillovers from Descentralized College Admission: Impacts on School Performance, Parental Expectations and College Outcomes** 
+**Sibling Spillovers from Decentralized College Admission: Impacts on School Performance, Parental Expectations and College Outcomes** 
 <div style="margin-top: -1.2em;">
   <details>
     <summary>Abstract (click to expand)</summary>
