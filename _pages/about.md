@@ -129,7 +129,7 @@ Teaching
 ------
 
 <!--
-http://francisco-pardo-pajuelo.io/files/4_Teaching_Reports/.pdf
+http://francisco-pardo-pajuelo.io/files/.pdf
 -->
    
 **Introduction to Microeconomics (Summer 2022, 2023, 2024) - Assistant Instructor**   
