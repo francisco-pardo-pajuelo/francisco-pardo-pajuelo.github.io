@@ -43,7 +43,7 @@ Publications
 (with Diether Beuermann, C. Kirabo Jackson, and Laia Navarro-Sola)   
 *Review of Economic Studies, 2023*  
 Media: [VoxDev](https://voxdev.org/topic/education/multidimensionality-school-choice-evidence-trinidad-and-tobago) | [Probable Causation](https://www.probablecausation.com/podcasts/episode-82-kirabo-jackson) | [Caribbean Dev Trends (IDB)](https://blogs.iadb.org/caribbean-dev-trends/en/do-test-scores-determine-school-quality/) | [Nada es Gratis](https://nadaesgratis.es/admin/determinan-las-puntuaciones-en-los-examenes-estandardizados-la-calidad-de-las-escuelas) (Spanish)  
-[Online Appendix](https://francisco-pardo-pajuelo.io/files/beuermann_et_al_2022_What_is_a_good_school_APPENDIX.pdf)
+[Online Appendix](https://francisco-pardo-pajuelo.github.io/files/beuermann_et_al_2022_What_is_a_good_school_APPENDIX.pdf)
 <div style="margin-top: -1.2em;">
   <details>
     <summary>Abstract (click to expand)</summary>
@@ -129,14 +129,14 @@ Teaching
 ------
 
 <!--
-https://francisco-pardo-pajuelo.io/files/.pdf
+https://francisco-pardo-pajuelo.github.io/files/.pdf
 -->
    
 **Introduction to Microeconomics (Summer 2022, 2023, 2024) - Assistant Instructor**   
 
 *“Amazing and always there for us, made videos to help us learn more, and even posted study resources, he went above and beyond. UT Austin Needs more professors like him.”*  
 
-Teaching Evaluations: Summer 2022 A, Summer 2022 B, [Summer 2023 A](https://francisco-pardo-pajuelo.io/files/Introduction_Microeconomics_Summer_2023_A.pdf), [Summer 2023 B](https://francisco-pardo-pajuelo.io/files/Introduction_Microeconomics_Summer_2023_B.pdf), [Summer 2024 A](https://francisco-pardo-pajuelo.io/files/Introduction_Microeconomics_Summer_2024_A.pdf), [Summer 2024 B](https://francisco-pardo-pajuelo.io/files/Introduction_Microeconomics_Summer_2024_B.pdf)
+Teaching Evaluations: Summer 2022 A, Summer 2022 B, [Summer 2023 A](https://francisco-pardo-pajuelo.github.io/files/Introduction_Microeconomics_Summer_2023_A.pdf), [Summer 2023 B](https://francisco-pardo-pajuelo.github.io/files/Introduction_Microeconomics_Summer_2023_B.pdf), [Summer 2024 A](https://francisco-pardo-pajuelo.github.io/files/Introduction_Microeconomics_Summer_2024_A.pdf), [Summer 2024 B](https://francisco-pardo-pajuelo.github.io/files/Introduction_Microeconomics_Summer_2024_B.pdf)
 
   
 **Development Economics (2022, 2023, 2024, 2025) - Teaching Assistant**     
@@ -145,7 +145,7 @@ Teaching Evaluations: Summer 2022 A, Summer 2022 B, [Summer 2023 A](https://fran
 
 *“He was always friendly, available, and encouraging.”*
 
-Teaching Evaluations: Spring 2022, [Spring 2023](https://francisco-pardo-pajuelo.io/files/Development_Economics_Spring_2023.pdf), [Fall 2023](https://francisco-pardo-pajuelo.io/files/Development_Economics_Fall_2023.pdf), [Spring 2024](https://francisco-pardo-pajuelo.io/files/Development_Economics_Spring_2024.pdf), [Fall 2024](https://francisco-pardo-pajuelo.io/files/Development_Economics_Fall_2024.pdf), [Spring 2025](https://francisco-pardo-pajuelo.io/files/Development_Economics_Spring_2025.pdf),
+Teaching Evaluations: Spring 2022, [Spring 2023](https://francisco-pardo-pajuelo.github.io/files/Development_Economics_Spring_2023.pdf), [Fall 2023](https://francisco-pardo-pajuelo.github.io/files/Development_Economics_Fall_2023.pdf), [Spring 2024](https://francisco-pardo-pajuelo.github.io/files/Development_Economics_Spring_2024.pdf), [Fall 2024](https://francisco-pardo-pajuelo.github.io/files/Development_Economics_Fall_2024.pdf), [Spring 2025](https://francisco-pardo-pajuelo.github.io/files/Development_Economics_Spring_2025.pdf),
 
 **Microeconomic Theory (2021, 2022) - Teaching Assistant**      
 
@@ -154,7 +154,7 @@ Teaching Evaluations: Spring 2022, [Spring 2023](https://francisco-pardo-pajuelo
 *“I like how he held the TA sessions in a manner that helped the students find the answer themselves instead of just showing us how
 to get to the answer.”* 
 
-Teaching Evaluations: Fall 2021, [Fall 2022](https://francisco-pardo-pajuelo.io/files/Microeconomic_Theory_Fall_2022.pdf)
+Teaching Evaluations: Fall 2021, [Fall 2022](https://francisco-pardo-pajuelo.github.io/files/Microeconomic_Theory_Fall_2022.pdf)
 
 **Introduction to Microeconomics (2021) - Teaching Assistant**   
 
