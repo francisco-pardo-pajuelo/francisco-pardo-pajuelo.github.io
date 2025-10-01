@@ -17,7 +17,7 @@ Contact
 ------
 **Email:** fpardo@utexas.edu  
 **Office:** BRB 3.150, Department of Economics, University of Texas at Austin  
-[Curriculum Vitae](http://francisco-pardo-pajuelo.github.io/files/CV_Francisco_Pardo_Pajuelo.pdf) | [Google Scholar](https://scholar.google.com/citations?user=zCcj60wAAAAJ&hl=en&authuser=2) | [Twitter/X](https://x.com/franciscopardop) | [Linkedin](https://www.linkedin.com/in/francisco-pardo-pajuelo/)
+[Curriculum Vitae](https://francisco-pardo-pajuelo.github.io/files/CV_Francisco_Pardo_Pajuelo.pdf) | [Google Scholar](https://scholar.google.com/citations?user=zCcj60wAAAAJ&hl=en&authuser=2) | [Twitter/X](https://x.com/franciscopardop) | [Linkedin](https://www.linkedin.com/in/francisco-pardo-pajuelo/)
 <!-- @franciscopardop -->
 <!--* **GitHub:** [francisco-pardo-pajuelo](https://github.com/francisco-pardo-pajuelo) -->
 <!--* **LinkedIn:** [your_linkedin](https://www.linkedin.com/in/francisco-pardo-pajuelo/) -->
@@ -39,11 +39,11 @@ redirect_from:
 Publications
 ------
 
-**[What is a Good School, and Can Parents Tell? Evidence on the Multidimensionality of School Output](http://francisco-pardo-pajuelo.github.io/files/beuermann_et_al_2022_What_is_a_good_school.pdf)**  
+**[What is a Good School, and Can Parents Tell? Evidence on the Multidimensionality of School Output](https://francisco-pardo-pajuelo.github.io/files/beuermann_et_al_2022_What_is_a_good_school.pdf)**  
 (with Diether Beuermann, C. Kirabo Jackson, and Laia Navarro-Sola)   
 *Review of Economic Studies, 2023*  
 Media: [VoxDev](https://voxdev.org/topic/education/multidimensionality-school-choice-evidence-trinidad-and-tobago) | [Probable Causation](https://www.probablecausation.com/podcasts/episode-82-kirabo-jackson) | [Caribbean Dev Trends (IDB)](https://blogs.iadb.org/caribbean-dev-trends/en/do-test-scores-determine-school-quality/) | [Nada es Gratis](https://nadaesgratis.es/admin/determinan-las-puntuaciones-en-los-examenes-estandardizados-la-calidad-de-las-escuelas) (Spanish)  
-[Online Appendix](http://francisco-pardo-pajuelo.io/files/beuermann_et_al_2022_What_is_a_good_school_APPENDIX.pdf)
+[Online Appendix](https://francisco-pardo-pajuelo.io/files/beuermann_et_al_2022_What_is_a_good_school_APPENDIX.pdf)
 <div style="margin-top: -1.2em;">
   <details>
     <summary>Abstract (click to expand)</summary>
@@ -129,14 +129,14 @@ Teaching
 ------
 
 <!--
-http://francisco-pardo-pajuelo.io/files/.pdf
+https://francisco-pardo-pajuelo.io/files/.pdf
 -->
    
 **Introduction to Microeconomics (Summer 2022, 2023, 2024) - Assistant Instructor**   
 
 *“Amazing and always there for us, made videos to help us learn more, and even posted study resources, he went above and beyond. UT Austin Needs more professors like him.”*  
 
-Teaching Evaluations: Summer 2022 A, Summer 2022 B, [Summer 2023 A](http://francisco-pardo-pajuelo.io/files/Introduction_Microeconomics_Summer_2023_A.pdf), [Summer 2023 B](http://francisco-pardo-pajuelo.io/files/Introduction_Microeconomics_Summer_2023_B.pdf), [Summer 2024 A](http://francisco-pardo-pajuelo.io/files/Introduction_Microeconomics_Summer_2024_A.pdf), [Summer 2024 B](http://francisco-pardo-pajuelo.io/files/Introduction_Microeconomics_Summer_2024_B.pdf)
+Teaching Evaluations: Summer 2022 A, Summer 2022 B, [Summer 2023 A](https://francisco-pardo-pajuelo.io/files/Introduction_Microeconomics_Summer_2023_A.pdf), [Summer 2023 B](https://francisco-pardo-pajuelo.io/files/Introduction_Microeconomics_Summer_2023_B.pdf), [Summer 2024 A](https://francisco-pardo-pajuelo.io/files/Introduction_Microeconomics_Summer_2024_A.pdf), [Summer 2024 B](https://francisco-pardo-pajuelo.io/files/Introduction_Microeconomics_Summer_2024_B.pdf)
 
   
 **Development Economics (2022, 2023, 2024, 2025) - Teaching Assistant**     
@@ -145,7 +145,7 @@ Teaching Evaluations: Summer 2022 A, Summer 2022 B, [Summer 2023 A](http://franc
 
 *“He was always friendly, available, and encouraging.”*
 
-Teaching Evaluations: Spring 2022, [Spring 2023](http://francisco-pardo-pajuelo.io/files/Development_Economics_Spring_2023.pdf), [Fall 2023](http://francisco-pardo-pajuelo.io/files/Development_Economics_Fall_2023.pdf), [Spring 2024](http://francisco-pardo-pajuelo.io/files/Development_Economics_Spring_2024.pdf), [Fall 2024](http://francisco-pardo-pajuelo.io/files/Development_Economics_Fall_2024.pdf), [Spring 2025](http://francisco-pardo-pajuelo.io/files/Development_Economics_Spring_2025.pdf),
+Teaching Evaluations: Spring 2022, [Spring 2023](https://francisco-pardo-pajuelo.io/files/Development_Economics_Spring_2023.pdf), [Fall 2023](https://francisco-pardo-pajuelo.io/files/Development_Economics_Fall_2023.pdf), [Spring 2024](https://francisco-pardo-pajuelo.io/files/Development_Economics_Spring_2024.pdf), [Fall 2024](https://francisco-pardo-pajuelo.io/files/Development_Economics_Fall_2024.pdf), [Spring 2025](https://francisco-pardo-pajuelo.io/files/Development_Economics_Spring_2025.pdf),
 
 **Microeconomic Theory (2021, 2022) - Teaching Assistant**      
 
@@ -154,7 +154,7 @@ Teaching Evaluations: Spring 2022, [Spring 2023](http://francisco-pardo-pajuelo.
 *“I like how he held the TA sessions in a manner that helped the students find the answer themselves instead of just showing us how
 to get to the answer.”* 
 
-Teaching Evaluations: Fall 2021, [Fall 2022](http://francisco-pardo-pajuelo.io/files/Microeconomic_Theory_Fall_2022.pdf)
+Teaching Evaluations: Fall 2021, [Fall 2022](https://francisco-pardo-pajuelo.io/files/Microeconomic_Theory_Fall_2022.pdf)
 
 **Introduction to Microeconomics (2021) - Teaching Assistant**   
 
@@ -183,11 +183,11 @@ UC Davis Summer School on the Economics of Migration, 2022
 Personal
 ------
 
-[My actual field of interest](http://francisco-pardo-pajuelo.github.io/images/soccer.jpg)  
-[My best decisions](http://francisco-pardo-pajuelo.github.io/images/loves.jpg)  
-[My fostering friend #1](http://francisco-pardo-pajuelo.github.io/images/bibi.jpg)  
-[My fostering friend #2](http://francisco-pardo-pajuelo.github.io/images/rocky.jpg) 
-<!--[My time in Austin (bbq)](http://francisco-pardo-pajuelo.github.io/images/pardo_h_street_edit_lq.jpg) -->
+[My actual field of interest](https://francisco-pardo-pajuelo.github.io/images/soccer.jpg)  
+[My best decisions](https://francisco-pardo-pajuelo.github.io/images/loves.jpg)  
+[My fostering friend #1](https://francisco-pardo-pajuelo.github.io/images/bibi.jpg)  
+[My fostering friend #2](https://francisco-pardo-pajuelo.github.io/images/rocky.jpg) 
+<!--[My time in Austin (bbq)](https://francisco-pardo-pajuelo.github.io/images/pardo_h_street_edit_lq.jpg) -->
 
 
 
