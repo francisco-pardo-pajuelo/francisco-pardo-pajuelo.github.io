@@ -131,32 +131,32 @@ Teaching
 <!--
 http://francisco-pardo-pajuelo.io/files/4_Teaching_Reports/.pdf
 -->
+   
+**Introduction to Microeconomics (Summer 2022, 2023, 2024) - Assistant Instructor**   
 
+*“Amazing and always there for us, made videos to help us learn more, and even posted study resources, he went above and beyond. UT Austin Needs more professors like him.”*  
 
-**Assistant Instructor**  
-Introduction to Microeconomics (Summer 2022, 2023, 2024)
+Teaching Evaluations: Summer 2022 A, Summer 2022 B, [Summer 2023 A](http://francisco-pardo-pajuelo.io/files/Introduction_Microeconomics_Summer_2023_A.pdf), [Summer 2023 B](http://francisco-pardo-pajuelo.io/files/Introduction_Microeconomics_Summer_2023_B.pdf), [Summer 2024 A](http://francisco-pardo-pajuelo.io/files/Introduction_Microeconomics_Summer_2024_A.pdf), [Summer 2024 B](http://francisco-pardo-pajuelo.io/files/Introduction_Microeconomics_Summer_2024_B.pdf)
 
-*“Amazing and always there for us, made videos to help us learn more, and even posted study resources, he went above and beyond. UT Austin Needs more professors like him.”*
+  
+**Development Economics (2022, 2023, 2024, 2025) - Teaching Assistant**     
 
-Teaching Evaluations: [Summer 2022 A - tbd](...), [Summer 2022 B - tbd](...), [Summer 2023 A](http://francisco-pardo-pajuelo.io/files/4_Teaching_Reports/Introduction_Microeconomics_Summer_2023_A.pdf), [Summer 2023 B](http://francisco-pardo-pajuelo.io/files/4_Teaching_Reports/Introduction_Microeconomics_Summer_2023_B.pdf), [Summer 2024 A](http://francisco-pardo-pajuelo.io/files/4_Teaching_Reports/Introduction_Microeconomics_Summer_2024_A.pdf), [Summer 2024 B](http://francisco-pardo-pajuelo.io/files/4_Teaching_Reports/Introduction_Microeconomics_Summer_2024_B.pdf)
-
-**Teaching Assistant**   
-Development Economics (2022, 2023, 2024, 2025)   
 *“Francisco was extremely reliable and quick with responding to emails and questions, a trait I have not experienced with any other TA so far during my education at UT. He also provided helpful study tips and emphasised the goals of the lectures. He was also very open to listening to concerns and questions about exam grades without being hostile, which I typically experienced with other TAs. Overall he is in the running for the best TA I have ever had!”* 
 
 *“He was always friendly, available, and encouraging.”*
 
-Teaching Evaluations: Spring 2022, [Spring 2023](http://francisco-pardo-pajuelo.io/files/4_Teaching_Reports/Development_Economics_Spring_2023.pdf), [Fall 2023](http://francisco-pardo-pajuelo.io/files/4_Teaching_Reports/Development_Economics_Fall_2023.pdf), [Spring 2024](http://francisco-pardo-pajuelo.io/files/4_Teaching_Reports/Development_Economics_Spring_2024.pdf), [Fall 2024](http://francisco-pardo-pajuelo.io/files/4_Teaching_Reports/Development_Economics_Fall_2024.pdf), [Spring 2025](http://francisco-pardo-pajuelo.io/files/4_Teaching_Reports/Development_Economics_Spring_2025.pdf),
+Teaching Evaluations: Spring 2022, [Spring 2023](http://francisco-pardo-pajuelo.io/files/Development_Economics_Spring_2023.pdf), [Fall 2023](http://francisco-pardo-pajuelo.io/files/Development_Economics_Fall_2023.pdf), [Spring 2024](http://francisco-pardo-pajuelo.io/files/Development_Economics_Spring_2024.pdf), [Fall 2024](http://francisco-pardo-pajuelo.io/files/Development_Economics_Fall_2024.pdf), [Spring 2025](http://francisco-pardo-pajuelo.io/files/Development_Economics_Spring_2025.pdf),
 
-Microeconomic Theory (2021, 2022)   
+**Microeconomic Theory (2021, 2022) - Teaching Assistant**      
+
 *“Francisco was always approachable and his explanations about any question was detailed and helpful. Good TA!”*
 
 *“I like how he held the TA sessions in a manner that helped the students find the answer themselves instead of just showing us how
 to get to the answer.”* 
 
-Teaching Evaluations: Fall 2021, [Fall 2022](http://francisco-pardo-pajuelo.io/files/4_Teaching_Reports/Microeconomic_Theory_Fall_2022.pdf)
+Teaching Evaluations: Fall 2021, [Fall 2022](http://francisco-pardo-pajuelo.io/files/Microeconomic_Theory_Fall_2022.pdf)
 
-Introduction to Microeconomics (2021)
+**Introduction to Microeconomics (2021) - Teaching Assistant**   
 
 Teaching Evaluations: Spring 2021
 
