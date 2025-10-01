@@ -130,14 +130,14 @@ Teaching
 
 
 
-**Assistant Instructor**
+**Assistant Instructor**  
 Introduction to Microeconomics (Summer 2022, 2023, 2024)
 
 *“Amazing and always there for us, made videos to help us learn more, and even posted study resources, he went above and beyond. UT Austin Needs more professors like him.”*
 
 [Teaching Evaluations](...)
 
-**Teaching Assistant**
+**Teaching Assistant**   
 Development Economics (2022, 2023, 2024, 2025)
 *“Francisco was extremely reliable and quick with responding to emails and questions, a trait I have not experienced with any other TA so far during my education at UT. He also provided helpful study tips and emphasised the goals of the lectures. He was also very open to listening to concerns and questions about exam grades without being hostile, which I typically experienced with other TAs. Overall he is in the running for the best TA I have ever had!”* 
 
