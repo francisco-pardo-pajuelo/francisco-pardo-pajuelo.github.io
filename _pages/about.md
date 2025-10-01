@@ -138,7 +138,7 @@ Introduction to Microeconomics (Summer 2022, 2023, 2024)
 
 *“Amazing and always there for us, made videos to help us learn more, and even posted study resources, he went above and beyond. UT Austin Needs more professors like him.”*
 
-Teaching Evaluations: [Summer 2022 A - tbd](...), [Summer 2022 B - tbd](...), [Summer 2023 A](http://francisco-pardo-pajuelo.io/files/4_Teaching_Reports/Individual Instructor Report Summer 2023 Version A for ECO F304K - INTRO TO MICROECONOMICS-WB (79460) Francisco Pardo Pa_4d6243b4-c066-42d9-ac74-02fb347495caen-US.pdf), [Summer 2023 B](http://francisco-pardo-pajuelo.io/files/4_Teaching_Reports/Individual Instructor Report Summer 2023 Version B for ECO F304K - INTRO TO MICROECONOMICS-WB (79460) Francisco Pardo Pa_0edf8650-3e58-4889-941b-b31c6eb90a6een-US.pdf), [Summer 2024 A](http://francisco-pardo-pajuelo.io/files/4_Teaching_Reports/Individual Instructor Report Summer 2024 Version A for ECO F304K - INTRO TO MICROECONOMICS-WB (78885) Francisco Pardo Pa_ece3ebb4-3eca-45ff-9ca0-85ec96f2a25een-US.pdf), [Summer 2024 B](http://francisco-pardo-pajuelo.io/files/4_Teaching_Reports/Individual Instructor Report Summer 2024 Version B for ECO F304K - INTRO TO MICROECONOMICS-WB (78885) Francisco Pardo Pa_60f36726-772d-436f-8d17-273bc0deeddfen-US.pdf)
+Teaching Evaluations: [Summer 2022 A - tbd](...), [Summer 2022 B - tbd](...), [Summer 2023 A](http://francisco-pardo-pajuelo.io/files/4_Teaching_Reports/Introduction_Microeconomics_Summer_2023_A.pdf), [Summer 2023 B](http://francisco-pardo-pajuelo.io/files/4_Teaching_Reports/Introduction_Microeconomics_Summer_2023_B.pdf), [Summer 2024 A](http://francisco-pardo-pajuelo.io/files/4_Teaching_Reports/Introduction_Microeconomics_Summer_2024_A.pdf), [Summer 2024 B](http://francisco-pardo-pajuelo.io/files/4_Teaching_Reports/Introduction_Microeconomics_Summer_2024_B.pdf)
 
 **Teaching Assistant**   
 Development Economics (2022, 2023, 2024, 2025)   
@@ -146,7 +146,7 @@ Development Economics (2022, 2023, 2024, 2025)
 
 *“He was always friendly, available, and encouraging.”*
 
-Teaching Evaluations: (...)
+Teaching Evaluations: [Spring 2022 - tbd](...) [Spring 2023](http://francisco-pardo-pajuelo.io/files/4_Teaching_Reports/Development_Economics_Spring_2023.pdf), [Fall 2023](http://francisco-pardo-pajuelo.io/files/4_Teaching_Reports/Development_Economics_Fall_2023.pdf), [Spring 2024](http://francisco-pardo-pajuelo.io/files/4_Teaching_Reports/Development_Economics_Spring_2024.pdf), [Fall 2024](http://francisco-pardo-pajuelo.io/files/4_Teaching_Reports/Development_Economics_Fall_2024.pdf), [Spring 2025](http://francisco-pardo-pajuelo.io/files/4_Teaching_Reports/Development_Economics_Spring_2025.pdf),
 
 Microeconomic Theory (2021, 2022)   
 *“Francisco was always approachable and his explanations about any question was detailed and helpful. Good TA!”*
@@ -154,7 +154,7 @@ Microeconomic Theory (2021, 2022)
 *“I like how he held the TA sessions in a manner that helped the students find the answer themselves instead of just showing us how
 to get to the answer.”* 
 
-Teaching Evaluations: [Fall 2021 - tbd](...), [Fall 2022](http://francisco-pardo-pajuelo.io/files/4_Teaching_Reports/Individual Teaching Assistant Report Fall 2022 for ECO 420K - MICROECONOMIC THEORY (34605);ECO 420K - MICROECONOMIC THEO_7b2ba213-826d-481e-a1d6-fa6c2ed962eaen-US.pdf)
+Teaching Evaluations: [Fall 2021 - tbd](...), [Fall 2022](http://francisco-pardo-pajuelo.io/files/4_Teaching_Reports/Microeconomic_Theory_Fall_2022.pdf)
 
 Introduction to Microeconomics (2021)
 
