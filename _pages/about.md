@@ -138,14 +138,14 @@ Introduction to Microeconomics (Summer 2022, 2023, 2024)
 [Teaching Evaluations](...)
 
 **Teaching Assistant**   
-Development Economics (2022, 2023, 2024, 2025)
+Development Economics (2022, 2023, 2024, 2025)   
 *“Francisco was extremely reliable and quick with responding to emails and questions, a trait I have not experienced with any other TA so far during my education at UT. He also provided helpful study tips and emphasised the goals of the lectures. He was also very open to listening to concerns and questions about exam grades without being hostile, which I typically experienced with other TAs. Overall he is in the running for the best TA I have ever had!”* 
 
 *“He was always friendly, available, and encouraging.”*
 
 [Teaching Evaluations](...)
 
-Microeconomic Theory (2021, 2022)
+Microeconomic Theory (2021, 2022)   
 *“Francisco was always approachable and his explanations about any question was detailed and helpful. Good TA!”*
 
 *“I like how he held the TA sessions in a manner that helped the students find the answer themselves instead of just showing us how
