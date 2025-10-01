@@ -9,7 +9,7 @@ redirect_from:
 Bio
 ------
 
-I am a 6th year PhD student in Economics at the University of Texas at Austin and I conduct research in the field of Applied Microeconomics. 
+I am a PhD student in Economics at the University of Texas at Austin. I'm currently in the job market for 2025–2026. I conduct research in the field of Applied Microeconomics in the areas of Education, Labor and Health. In my job market paper I investigate how family structure impacts educational outcomes during school closures due to COVID-19. I show that when the inputs to a child's education were forced to shift from schools to the household, families with siblings experienced greater and more persistent learning losses than only children due to constraints on parental time.
 <!--You can reach me at *fpardo@utexas.edu*.-->
 <br> 
 
