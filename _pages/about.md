@@ -146,7 +146,7 @@ Development Economics (2022, 2023, 2024, 2025)
 
 *“He was always friendly, available, and encouraging.”*
 
-Teaching Evaluations: [Spring 2022 - tbd](...) [Spring 2023](http://francisco-pardo-pajuelo.io/files/4_Teaching_Reports/Development_Economics_Spring_2023.pdf), [Fall 2023](http://francisco-pardo-pajuelo.io/files/4_Teaching_Reports/Development_Economics_Fall_2023.pdf), [Spring 2024](http://francisco-pardo-pajuelo.io/files/4_Teaching_Reports/Development_Economics_Spring_2024.pdf), [Fall 2024](http://francisco-pardo-pajuelo.io/files/4_Teaching_Reports/Development_Economics_Fall_2024.pdf), [Spring 2025](http://francisco-pardo-pajuelo.io/files/4_Teaching_Reports/Development_Economics_Spring_2025.pdf),
+Teaching Evaluations: Spring 2022, [Spring 2023](http://francisco-pardo-pajuelo.io/files/4_Teaching_Reports/Development_Economics_Spring_2023.pdf), [Fall 2023](http://francisco-pardo-pajuelo.io/files/4_Teaching_Reports/Development_Economics_Fall_2023.pdf), [Spring 2024](http://francisco-pardo-pajuelo.io/files/4_Teaching_Reports/Development_Economics_Spring_2024.pdf), [Fall 2024](http://francisco-pardo-pajuelo.io/files/4_Teaching_Reports/Development_Economics_Fall_2024.pdf), [Spring 2025](http://francisco-pardo-pajuelo.io/files/4_Teaching_Reports/Development_Economics_Spring_2025.pdf),
 
 Microeconomic Theory (2021, 2022)   
 *“Francisco was always approachable and his explanations about any question was detailed and helpful. Good TA!”*
@@ -154,11 +154,11 @@ Microeconomic Theory (2021, 2022)
 *“I like how he held the TA sessions in a manner that helped the students find the answer themselves instead of just showing us how
 to get to the answer.”* 
 
-Teaching Evaluations: [Fall 2021 - tbd](...), [Fall 2022](http://francisco-pardo-pajuelo.io/files/4_Teaching_Reports/Microeconomic_Theory_Fall_2022.pdf)
+Teaching Evaluations: Fall 2021, [Fall 2022](http://francisco-pardo-pajuelo.io/files/4_Teaching_Reports/Microeconomic_Theory_Fall_2022.pdf)
 
 Introduction to Microeconomics (2021)
 
-Teaching Evaluations: [Spring 2021 - tbd](...)
+Teaching Evaluations: Spring 2021
 
 Conferences and Workshops
 ------
