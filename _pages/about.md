@@ -106,7 +106,7 @@ Work in Progress
 </div>
 <br>
 
-**Complementarities of Joint Decisions Over Health Insurance within a Household: Evidence from Medicare Part D**
+**Complementarities of Joint Decisions Over Health Insurance: Evidence from Spouses in Medicare Part D**
 
 **Catastrophic Decisions: Household Reactions When Individual Members Age into or out of Health Insurance Eligibility Criteria**
 
