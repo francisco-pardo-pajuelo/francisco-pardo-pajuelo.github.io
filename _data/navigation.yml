@@ -4,6 +4,8 @@ main:
     url: "/#bio"
   - title: "Contact"
     url: "/#contact"
+  - title: "Research"
+    url: "/#jmp"
   - title: "Publications"
     url: "/#publications"
   - title: "Working Papers"
