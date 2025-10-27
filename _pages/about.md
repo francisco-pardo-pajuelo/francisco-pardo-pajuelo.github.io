@@ -49,7 +49,6 @@ Job Market Paper
     </div>
   </details>
 </div>
-<br>
 
 Publications
 ------
