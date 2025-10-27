@@ -36,7 +36,20 @@ redirect_from:
 ---
 -->
 
+Job Market Paper
+------
 
+**When the Household Becomes the School: Siblings, Parental Attention, and School Closures**  
+<!--***Job Market Paper*** -->
+<div style="margin-top: -1.2em;">
+  <details>
+    <summary>Abstract (click to expand)</summary>
+    <div>
+      <p>This paper examines how family structure affects educational outcomes when unexpected shocks dramatically increase parental time requirements for children's learning. Using administrative and survey data from Peru, I employ a difference-in-differences strategy that compares children with siblings to children without siblings before, during, and after school closures caused by COVID-19. Students with siblings experienced significantly larger learning losses of up to 0.06 standard deviations in GPA and 0.04 standard deviations in standardized exam scores, with effects intensifying as the number of siblings increased. Instrumental variable estimates using the same-sex instrument, which exogenously shifts family size, yield similar results. These differential impacts persist after schools reopened and appear across diverse subpopulations. Evidence points to parental time constraints as the primary mechanism. Effects are largest during primary education when parental investment matters most and among higher socioeconomic status families, who typically invest more time in their children. A regression discontinuity design based on the school starting age of the youngest sibling provides further evidence of the costs associated with increased childcare responsibilities. Households without a computer or a phone with internet access show similar results, which suggests that competition for scarce technological resources is not the main channel. Consistent with these results, parents of students with siblings also lowered by 1 percentage point their expectations that their children will attain higher education. Overall, these findings reveal fundamental insights about family resource allocation under stress. When external educational support disappears, the dilution of parental time across multiple children generates substantial disadvantages for larger families.</p>
+    </div>
+  </details>
+</div>
+<br>
 
 Publications
 ------
@@ -72,18 +85,6 @@ Media: [VoxDev](https://www.voxdev.org/topic/education/one-laptop-child-lessons-
 
 Work in Progress
 ------
-
-**When the Household Becomes the School: Sibling Effects on Parental Attention and Educational Outcomes During School Closures**  
-<!--***Job Market Paper*** -->
-<div style="margin-top: -1.2em;">
-  <details>
-    <summary>Abstract (click to expand)</summary>
-    <div>
-      <p>This paper examines how family structure affects educational outcomes when unexpected shocks dramatically increase parental time requirements for children's learning. Using administrative and survey data from Peru, I employ a difference-in-differences strategy that compares children with siblings to children without siblings before, during, and after school closures caused by COVID-19. Students with siblings experienced significantly larger learning losses of up to 0.06 standard deviations in GPA and 0.04 standard deviations in standardized exam scores, with effects intensifying as the number of siblings increased. Instrumental variable estimates using the same-sex instrument, which exogenously shifts family size, yield similar results. These differential impacts persist after schools reopened and appear across diverse subpopulations. Evidence points to parental time constraints as the primary mechanism. Effects are largest during primary education when parental investment matters most and among higher socioeconomic status families, who typically invest more time in their children. A regression discontinuity design based on the school starting age of the youngest sibling provides further evidence of the costs associated with increased childcare responsibilities. Households without a computer or a phone with internet access show similar results, which suggests that competition for scarce technological resources is not the main channel. Consistent with these results, parents of students with siblings also lowered by 1 percentage point their expectations that their children will attain higher education. Overall, these findings reveal fundamental insights about family resource allocation under stress. When external educational support disappears, the dilution of parental time across multiple children generates substantial disadvantages for larger families.</p>
-    </div>
-  </details>
-</div>
-<br>
 
 **Sibling Spillovers from Decentralized College Admission: Impacts on School Performance, Parental Expectations and College Outcomes** 
 <div style="margin-top: -1.2em;">
