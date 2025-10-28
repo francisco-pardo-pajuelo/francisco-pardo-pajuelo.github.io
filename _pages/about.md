@@ -107,9 +107,9 @@ Work in Progress
 </div>
 <br>
 
-**Complementarities of Joint Decisions Over Health Insurance: Evidence from Spouses in Medicare Part D**
+**Joint Decisions Over Health Insurance: Spouses in the ACA and Medicare Part D**
 
-**Catastrophic Decisions: Household Reactions When Individual Members Age into or out of Health Insurance Eligibility Criteria**
+<!--**Catastrophic Decisions: Household Reactions When Individual Members Age into or out of Health Insurance Eligibility Criteria**-->
 
 **Spillovers of Going to a Better School on Older and Younger Siblings**  
 (with Diether Beuermann, Patricio Dominguez, C. Kirabo Jackson and Diego Vera-Cossio)  
