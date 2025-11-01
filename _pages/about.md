@@ -167,7 +167,7 @@ Conferences and Workshops
 ------
 93rd Southern Economics Association 2023  
 
-Texas Applied Microeconomics Student Workshop 2023, 2024, 2025  
+Texas Applied Microeconomics Student Workshop 2024, 2025  
 
 Stata Texas Empirical Microeconomics Conference [Poster] 2023, 2025  
 
@@ -180,8 +180,8 @@ Russell Sage Summer Institute in Behavioral Economics, 2022
 UC Davis Summer School on the Economics of Migration, 2022  
 (organized by Giovanni Peri)
 
-1st Texas Applied Microeconomics Student (TEAMS) Workshop, 2022   
-(organizer)   
+1st Texas Applied Microeconomics Student (TEAMS) Workshop, 2023   
+(organizer) [Program](https://francisco-pardo-pajuelo.github.io/files/TEAMS_2025_Program.pdf)    
 
 Personal
 ------
