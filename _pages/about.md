@@ -96,7 +96,7 @@ Work in Progress
 </div>
 <br>
 
-**The Effect of Partisan Poll Watchers in Presidential Runoff Elections: 3 Close Elections in Peru**
+**The Effect of Partisan Poll Watchers in Presidential Runoff Elections: Three Close Elections in Peru**
 <div style="margin-top: -1.2em;">
   <details>
     <summary>Abstract (click to expand)</summary>
@@ -107,7 +107,7 @@ Work in Progress
 </div>
 <br>
 
-**Joint Decisions Over Health Insurance: Spouses in the ACA and Medicare Part D**
+**Joint Decisions over Health Insurance: Spouses in the ACA and Medicare Part D**
 
 <!--**Catastrophic Decisions: Household Reactions When Individual Members Age into or out of Health Insurance Eligibility Criteria**-->
 
