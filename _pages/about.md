@@ -85,7 +85,7 @@ Media: [VoxDev](https://www.voxdev.org/topic/education/one-laptop-child-lessons-
 Work in Progress
 ------
 
-**Sibling Spillovers from Decentralized College Admission: Impacts on School Performance, Parental Expectations and College Outcomes** 
+**Sibling Spillovers from Decentralized College Admission: Impacts on School Performance, Parental Expectations, and College Outcomes** 
 <div style="margin-top: -1.2em;">
   <details>
     <summary>Abstract (click to expand)</summary>
