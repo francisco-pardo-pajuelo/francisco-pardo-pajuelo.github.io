@@ -16,6 +16,15 @@ I am a PhD student in Economics at the University of Texas at Austin. I conduct 
 You can find my CV [here](https://francisco-pardo-pajuelo.github.io/files/CV_Francisco_Pardo.pdf), and you can reach me at fpardo@utexas.edu.
 
 In my job market paper, I investigate how family structure impacts educational outcomes during school closures due to COVID-19. I show that when the inputs to a child's education were forced to shift from schools to the household, children with siblings experienced greater and more persistent learning losses due to constraints on parental time.
+
+**Committee:**
+
+Leigh Linden (co-primary): leigh.linden@austin.utexas.edu
+Scott Carrell (co-primary): scott.carrell@austin.utexas.edu 
+Richard Murphy: richard.murphy@austin.utexas.edu 
+C. Kirabo Jackson: kirabo-jackson@northwestern.edu 
+
+
 <!--You can reach me at *fpardo@utexas.edu*.-->
 <br> 
 
