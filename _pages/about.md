@@ -19,10 +19,10 @@ In my job market paper, I investigate how family structure impacts educational o
 
 **Committee:**
 
-Leigh Linden (co-primary): leigh.linden@austin.utexas.edu
-Scott Carrell (co-primary): scott.carrell@austin.utexas.edu 
-Richard Murphy: richard.murphy@austin.utexas.edu 
-C. Kirabo Jackson: kirabo-jackson@northwestern.edu 
+Leigh Linden (co-primary): leigh.linden@austin.utexas.edu  
+Scott Carrell (co-primary): scott.carrell@austin.utexas.edu   
+Richard Murphy: richard.murphy@austin.utexas.edu   
+C. Kirabo Jackson: kirabo-jackson@northwestern.edu   
 
 
 <!--You can reach me at *fpardo@utexas.edu*.-->
