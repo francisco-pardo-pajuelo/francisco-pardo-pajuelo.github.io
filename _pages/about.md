@@ -9,9 +9,13 @@ redirect_from:
 Bio
 ------
 
-I am a PhD student in Economics at the University of Texas at Austin. I'm currently in the job market for 2025–2026. I conduct research in the field of Applied Microeconomics in the areas of Education, Labor and Health.   
+I am a PhD student in Economics at the University of Texas at Austin. I conduct research in the field of Applied Microeconomics in the areas of Education, Labor and Health.   
 
-In my job market paper I investigate how family structure impacts educational outcomes during school closures due to COVID-19. I show that when the inputs to a child's education were forced to shift from schools to the household, children with siblings experienced greater and more persistent learning losses due to constraints on parental time.
+**I am on the 2025/2026 Job Market.**
+
+You can find my [CV](https://francisco-pardo-pajuelo.github.io/files/CV_Francisco_Pardo.pdf) here, and you can reach me at fpardo@utexas.edu.
+
+In my job market paper, I investigate how family structure impacts educational outcomes during school closures due to COVID-19. I show that when the inputs to a child's education were forced to shift from schools to the household, children with siblings experienced greater and more persistent learning losses due to constraints on parental time.
 <!--You can reach me at *fpardo@utexas.edu*.-->
 <br> 
 
@@ -39,7 +43,7 @@ redirect_from:
 Job Market Paper
 ------
 
-**When the Household Becomes the School: Siblings, Parental Attention, and School Closures**  
+**[When the Household Becomes the School: Siblings, Parental Attention, and School Closures](https://francisco-pardo-pajuelo.github.io/files/JMP_PARDO.pdf)**    
 <!--***Job Market Paper*** -->
 <div style="margin-top: -1.2em;">
   <details>
