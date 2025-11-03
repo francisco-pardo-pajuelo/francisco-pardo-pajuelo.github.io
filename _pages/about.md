@@ -8,7 +8,7 @@ redirect_from:
 
 Bio
 ------
-
+ 
 I am a PhD student in Economics at the University of Texas at Austin. I conduct research in applied microeconomics, focusing on education, health, and labor.   
 
 **I am on the 2025/2026 Job Market.**
