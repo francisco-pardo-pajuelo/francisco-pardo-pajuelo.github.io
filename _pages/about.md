@@ -24,7 +24,6 @@ In my job market paper, I investigate how family structure impacts educational o
 [Richard Murphy](https://www.richardmurphy.org/): richard.murphy@austin.utexas.edu   
 [C. Kirabo Jackson](https://sites.northwestern.edu/kirabojackson/): kirabo-jackson@northwestern.edu   
 <!--You can reach me at *fpardo@utexas.edu*.-->
-<br> 
 
 Contact
 ------
