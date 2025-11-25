@@ -78,7 +78,7 @@ Media: [VoxDev](https://voxdev.org/topic/education/multidimensionality-school-ch
 </div>
 <br>
 
-[**Laptops in the Long-Run: Evidence from the One Laptop per Child Program in Rural Peru**](https://francisco-pardo-pajuelo.github.io/files/OLPC_JPubE.pdf)  
+[**Laptops in the Long Run: Evidence from the One Laptop per Child Program in Rural Peru**](https://francisco-pardo-pajuelo.github.io/files/OLPC_JPubE.pdf)  
 (with Santiago Cueto, Diether Beuermann, Julian Cristia, and Ofer Malamud)  
 *Accepted at the Journal of Public Economics*    
 Media: [VoxDev](https://www.voxdev.org/topic/education/one-laptop-child-lessons-long-term-follow) | [IADB Blogs](https://blogs.iadb.org/ideas-matter/en/handing-out-laptops-is-not-enough-to-improve-student-learning/)   
