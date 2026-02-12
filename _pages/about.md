@@ -197,7 +197,7 @@ Personal
 ------
 
 [My actual field of interest](https://francisco-pardo-pajuelo.github.io/images/soccer.jpg)  
-[My best decisions](https://francisco-pardo-pajuelo.github.io/images/loves.jpg)
+[My best decisions](https://francisco-pardo-pajuelo.github.io/images/loves.jpg) 
 [My fostering friend #1](https://francisco-pardo-pajuelo.github.io/images/bibi.jpg)  
 [My fostering friend #2](https://francisco-pardo-pajuelo.github.io/images/rocky.jpg) 
 <!--[My time in Austin (bbq)](https://francisco-pardo-pajuelo.github.io/images/pardo_h_street_edit_lq.jpg) -->
