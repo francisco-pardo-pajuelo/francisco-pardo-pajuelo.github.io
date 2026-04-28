@@ -106,7 +106,7 @@ Work in Progress
 </div>
 <br>
 
-**The Effect of Partisan Poll Watchers in Presidential Runoff Elections: Three Close Elections in Peru**
+[**The Effect of Partisan Poll Watchers in Presidential Runoff Elections: Three Close Elections in Peru**](https://francisco-pardo-pajuelo.github.io/files/elections_PARDO.pdf)
 <div style="margin-top: -1.2em;">
   <details>
     <summary>Abstract (click to expand)</summary>
