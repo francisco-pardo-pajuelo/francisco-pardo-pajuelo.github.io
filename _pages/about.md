@@ -95,23 +95,23 @@ Media: [VoxDev](https://www.voxdev.org/topic/education/one-laptop-child-lessons-
 Work in Progress
 ------
 
-**Sibling Spillovers from Decentralized College Admissions: Performance and Parental Expectations** 
-<div style="margin-top: -1.2em;">
-  <details>
-    <summary>Abstract (click to expand)</summary>
-    <div>
-      <p>Family and social networks play a critical role in shaping educational decisions, with sibling influence being particularly significant. This paper examines the spillover effects of older siblings’ college admission on the educational trajectories of their younger siblings, from school performance and completion to college application decisions and outcomes during both the admissions process and college attendance. I leverage admission cutoffs in Peru’s decentralized public college system, where each institution administers its own entrance exam and application process, to isolate exogenous variation in college entry. The results show that younger siblings improve their academic performance in school and are significantly more likely to apply to four-year colleges when an older sibling is admitted. Using complementary survey data, I find that increased parental expectations are a key channel driving these effects. These findings suggest that in environments where college access is limited and admission processes are complex, siblings play an especially important role in bridging information gaps and serving as aspirational role models.</p>
-    </div>
-  </details>
-</div>
-<br>
-
 [**The Effect of Partisan Poll Watchers in Presidential Runoff Elections: Three Close Elections in Peru**](https://francisco-pardo-pajuelo.github.io/files/elections_PARDO.pdf)
 <div style="margin-top: -1.2em;">
   <details>
     <summary>Abstract (click to expand)</summary>
     <div>
       <p>The legitimacy of election results is key to democracy and political stability and party poll-watchers play an important role in this. I study elections in Peru, where parties are allowed to assign poll-watchers to monitor the electoral process and vote count. I find effects of up to 0.4 percentage points on the vote margin, sizes that could be decisive in elections won by 0.2 percentage points like those studied. The results are consistent with poll-watchers engaging in legitimate behavior to defend the validity of their votes: the vote margin effect is null when both poll-watchers are present, the effect on null votes declines, and the time required to count votes increases, suggesting more discussions take place.</p>
+    </div>
+  </details>
+</div>
+<br>
+
+**Sibling Spillovers from Decentralized College Admissions: Performance and Parental Expectations** 
+<div style="margin-top: -1.2em;">
+  <details>
+    <summary>Abstract (click to expand)</summary>
+    <div>
+      <p>Family and social networks play a critical role in shaping educational decisions, with sibling influence being particularly significant. This paper examines the spillover effects of older siblings’ college admission on the educational trajectories of their younger siblings, from school performance and completion to college application decisions and outcomes during both the admissions process and college attendance. I leverage admission cutoffs in Peru’s decentralized public college system, where each institution administers its own entrance exam and application process, to isolate exogenous variation in college entry. The results show that younger siblings improve their academic performance in school and are significantly more likely to apply to four-year colleges when an older sibling is admitted. Using complementary survey data, I find that increased parental expectations are a key channel driving these effects. These findings suggest that in environments where college access is limited and admission processes are complex, siblings play an especially important role in bridging information gaps and serving as aspirational role models.</p>
     </div>
   </details>
 </div>
