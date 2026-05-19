@@ -95,7 +95,7 @@ Media: [Cato Institute](https://www.cato.org/research-briefs-economic-policy/eff
 Work in Progress
 ------
 
-[**The Effect of Partisan Poll Watchers in Presidential Runoff Elections: Three Close Elections in Peru**](https://francisco-pardo-pajuelo.github.io/files/elections_PARDO.pdf)
+[**The Effect of Partisan Poll-Watchers in Presidential Runoff Elections**](https://francisco-pardo-pajuelo.github.io/files/elections_PARDO.pdf)
 <div style="margin-top: -1.2em;">
   <details>
     <summary>Abstract (click to expand)</summary>
