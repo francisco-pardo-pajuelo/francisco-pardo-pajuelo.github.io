@@ -8,13 +8,14 @@ redirect_from:
 
 Bio
 ------
- 
-I am a PhD student in Economics at the University of Texas at Austin. I conduct research in applied microeconomics, focusing on education, health, and labor.   
+I am a Postdoctoral Research Fellow at the School of Civic Leadership at University of Texas at Austin. I conduct research in applied microeconomics, focusing on education, health, and labor.
+<!--I am a PhD student in Economics at the University of Texas at Austin.--> I conduct research in applied microeconomics, focusing on education, health, and labor.-->
 
-**I am on the 2025/2026 Job Market.**
+<!--**I am on the 2025/2026 Job Market.**-->
 
 You can find my CV [here](https://francisco-pardo-pajuelo.github.io/files/CV_Francisco_Pardo.pdf), and you can reach me at fpardo@utexas.edu.
 
+<!--
 In my **[job market paper](https://francisco-pardo-pajuelo.github.io/files/JMP_PARDO.pdf)**, I investigate how family structure impacts educational outcomes during school closures due to COVID-19. I show that when the inputs to a child's education were forced to shift from schools to the household, children with siblings experienced greater and more persistent learning losses due to constraints on parental time.
 
 **Committee:**
@@ -24,11 +25,12 @@ In my **[job market paper](https://francisco-pardo-pajuelo.github.io/files/JMP_P
 [Richard Murphy](https://www.richardmurphy.org/): richard.murphy@austin.utexas.edu   
 [C. Kirabo Jackson](https://sites.northwestern.edu/kirabojackson/): kirabo-jackson@northwestern.edu   
 <!--You can reach me at *fpardo@utexas.edu*.-->
+-->
 
 Contact
 ------
 **Email:** fpardo@utexas.edu  
-**Office:** BRB 3.150, Department of Economics, University of Texas at Austin  
+<!--**Office:** BRB 3.150, Department of Economics, University of Texas at Austin -->
 [Curriculum Vitae](https://francisco-pardo-pajuelo.github.io/files/CV_Francisco_Pardo.pdf) | [Google Scholar](https://scholar.google.com/citations?user=zCcj60wAAAAJ&hl=en&authuser=2) | [Twitter/X](https://x.com/franciscopardop) | [Linkedin](https://www.linkedin.com/in/francisco-pardo-pajuelo/)
 <!-- @franciscopardop -->
 <!--* **GitHub:** [francisco-pardo-pajuelo](https://github.com/francisco-pardo-pajuelo) -->
