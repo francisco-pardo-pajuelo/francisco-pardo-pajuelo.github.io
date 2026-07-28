@@ -23,9 +23,9 @@ In my **[job market paper](https://francisco-pardo-pajuelo.github.io/files/JMP_P
 [Leigh Linden](https://www.leighlinden.com/) (co-primary): leigh.linden@austin.utexas.edu  
 [Scott Carrell](https://faculty.econ.ucdavis.edu/faculty/scarrell/) (co-primary): scott.carrell@austin.utexas.edu   
 [Richard Murphy](https://www.richardmurphy.org/): richard.murphy@austin.utexas.edu   
-[C. Kirabo Jackson](https://sites.northwestern.edu/kirabojackson/): kirabo-jackson@northwestern.edu   
+[C. Kirabo Jackson](https://sites.northwestern.edu/kirabojackson/): kirabo-jackson@northwestern.edu   -->
 <!--You can reach me at *fpardo@utexas.edu*.-->
--->
+
 
 Contact
 ------
