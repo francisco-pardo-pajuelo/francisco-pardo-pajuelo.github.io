@@ -98,12 +98,13 @@ Media: [Cato Institute](https://www.cato.org/research-briefs-economic-policy/eff
 Work in Progress
 ------
 
-[**The Effect of Partisan Poll-Watchers in Presidential Runoff Elections**](https://francisco-pardo-pajuelo.github.io/files/elections_PARDO.pdf)
+[**Watching Each Other: Partisan Poll-Watchers and the Vote Count**](https://francisco-pardo-pajuelo.github.io/files/elections_PARDO.pdf)
 <div style="margin-top: -1.2em;">
   <details>
     <summary>Abstract (click to expand)</summary>
     <div>
-      <p>The legitimacy of election results is key to democracy and political stability and party poll-watchers play an important role in this. I study elections in Peru, where parties are allowed to assign poll-watchers to monitor the electoral process and vote count. I find effects of up to 0.4 percentage points on the vote margin, sizes that could be decisive in elections won by 0.2 percentage points like those studied. The results are consistent with poll-watchers engaging in legitimate behavior to defend the validity of their votes: the vote margin effect is null when both poll-watchers are present, the effect on null votes declines, and the time required to count votes increases, suggesting more discussions take place.</p>
+      <p>Party poll-watchers monitor vote counts in many democracies, yet coverage is often uneven. I study three presidential runoffs in Peru using handwritten records from official voting registries, comparing polling stations within schools. A poll-watcher present without a rival shifts the vote margin toward their party by up to 0.4 percentage points; scaled nationally, a party watching half of all polling stations unopposed would move the margin by roughly 0.2 points, the margin by which two of these runoffs were decided. When both parties watch, the effects cancel, null votes fall, and counts take longer, consistent with legitimate contestation of ballots.
+</p>
     </div>
   </details>
 </div>
