@@ -103,7 +103,7 @@ Work in Progress
   <details>
     <summary>Abstract (click to expand)</summary>
     <div>
-      <p>Party poll-watchers monitor vote counts in many democracies, yet coverage is often uneven. I study three presidential runoffs in Peru using handwritten records from official voting registries, comparing polling stations within schools. A poll-watcher present without a rival shifts the vote margin toward their party by up to 0.4 percentage points; scaled nationally, a party watching half of all polling stations unopposed would move the margin by roughly 0.2 points, the margin by which two of these runoffs were decided. When both parties watch, the effects cancel, null votes fall, and counts take longer, consistent with legitimate contestation of ballots.
+      <p>Party poll-watchers oversee vote counting in many democracies, but their coverage is often uneven and incomplete. I use handwritten official records of three close Peruvian presidential runoffs, recovering poll-watcher presence and count timing. Voters are assigned to classrooms alphabetically, so I compare classrooms within schools. A watcher without an opposing counterpart moves the margin toward their party by up to 0.4 percentage points. Within schools, parties tend to co-locate their poll-watchers; when both are present, the margin is unchanged, fewer ballots are discarded as null, and counting runs 3.3% longer, suggesting deliberation over disputed ballots rather than fraud.
 </p>
     </div>
   </details>
