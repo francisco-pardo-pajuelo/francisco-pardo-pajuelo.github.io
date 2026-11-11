@@ -95,7 +95,7 @@ Media: [Cato Institute](https://www.cato.org/research-briefs-economic-policy/eff
 </div>
 
 
-Work in Progress
+Working Papers
 ------
 
 [**Watching Each Other: Partisan Poll-Watchers and the Vote Count**](https://francisco-pardo-pajuelo.github.io/files/elections_PARDO.pdf)
@@ -110,6 +110,9 @@ Work in Progress
 </div>
 <br>
 
+Work in Progress
+------
+
 **Sibling Spillovers from Decentralized College Admissions: Performance and Parental Expectations** 
 <div style="margin-top: -1.2em;">
   <details>
@@ -121,7 +124,7 @@ Work in Progress
 </div>
 <br>
 
-**Joint Decisions over Health Insurance: Spouses in the ACA and Medicare Part D**
+<!--**Joint Decisions over Health Insurance: Spouses in the ACA and Medicare Part D**-->
 
 <!--**Catastrophic Decisions: Household Reactions When Individual Members Age into or out of Health Insurance Eligibility Criteria**-->
 
