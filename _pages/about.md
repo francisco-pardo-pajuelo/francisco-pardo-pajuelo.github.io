@@ -8,7 +8,7 @@ redirect_from:
 
 Bio
 ------
-I am a Postdoctoral Research Fellow at the School of Civic Leadership at the University of Texas at Austin. I conduct research in applied microeconomics, focusing on the economics of education and labor economics.
+I am a Postdoctoral Fellow at the School of Civic Leadership at the University of Texas at Austin. I conduct research in applied microeconomics, focusing on the economics of education and labor economics.
 
 <!--I am a PhD student in Economics at the University of Texas at Austin. I conduct research in applied microeconomics, focusing on education, health, and labor.-->
 
